@@ -1524,741 +1524,741 @@
 "1523","Chiapas","Mazatan","07054","2012","Municipal",10806,3.23259938675375,"PRI",0,5
 "1524","Chiapas","Mazatan","07054","2015","Municipal",12428,4.51189304254201,"PRD",1,6
 "1525","Chiapas","Mazatan","07054","2018","Municipal",8587,2.53442929442739,"MORENA_C",1,7
-"1526","Chiapas","Metapa","07055","1985","Municipal",1333,1.83402814691721,"PRI",NA,NA
-"1527","Chiapas","Metapa","07055","1988","Municipal",1711,1,"PRI",0,0
-"1528","Chiapas","Metapa","07055","1991","Municipal",1831,1,"PRI",0,0
-"1529","Chiapas","Metapa","07055","1995","Municipal",1500,2.31758325748231,"PRD",1,1
-"1530","Chiapas","Metapa","07055","1998","Municipal",1514,1.53092668954789,"PRI",1,2
-"1531","Chiapas","Metapa","07055","2001","Municipal",2213,3.62914729996527,"PAN",1,3
-"1532","Chiapas","Metapa","07055","2004","Municipal",2288,4.30540152628999,"PRI",1,4
-"1533","Chiapas","Metapa","07055","2007","Municipal",2839,4.29405766365358,"PVEM",1,5
-"1534","Chiapas","Metapa","07055","2010","Municipal",2862,2.61697047841185,"PAN_C",1,6
-"1535","Chiapas","Metapa","07055","2012","Municipal",2628,3.55257491231981,"PRI",1,7
-"1536","Chiapas","Metapa","07055","2018","Municipal",3355,3.15772476178107,"NVA_ALIANZA",1,8
-"1537","Chiapas","Mitontic","07056","1985","Municipal",3491,1,"PRI",NA,NA
-"1538","Chiapas","Mitontic","07056","1988","Municipal",3197,1,"PRI",0,0
-"1539","Chiapas","Mitontic","07056","1991","Municipal",237,1,"PRI",0,0
-"1540","Chiapas","Mitontic","07056","1995","Municipal",1831,1.10880508829984,"PRI",0,0
-"1541","Chiapas","Mitontic","07056","1998","Municipal",12067,2.13852090708666,"PRI",0,0
-"1542","Chiapas","Mitontic","07056","2001","Municipal",1857,1.80489555943298,"PRI",0,0
-"1543","Chiapas","Mitontic","07056","2004","Municipal",1574,1.42286430794159,"PRI",0,0
-"1544","Chiapas","Mitontic","07056","2007","Municipal",2537,1.78289331181713,"PRI",0,0
-"1545","Chiapas","Mitontic","07056","2010","Municipal",3267,1.9995053342072,"PRI",0,0
-"1546","Chiapas","Mitontic","07056","2012","Municipal",3332,1.62442066650655,"PRI",0,0
-"1547","Chiapas","Mitontic","07056","2015","Municipal",4696,2.06328081983242,"PRI",0,0
-"1548","Chiapas","Mitontic","07056","2018","Municipal",5534,2.88088488078618,"PVEM",1,1
-"1549","Chiapas","Motozintla","07057","1985","Municipal",7165,1.0061598183703,"PRI",NA,NA
-"1550","Chiapas","Motozintla","07057","1988","Municipal",4305,1.94748870131272,"PRI",0,0
-"1551","Chiapas","Motozintla","07057","1991","Municipal",9967,1.65294948830426,"PRI",0,0
-"1552","Chiapas","Motozintla","07057","1995","Municipal",13701,2.25858942337121,"PRI",0,0
-"1553","Chiapas","Motozintla","07057","1998","Municipal",1422,1.56414289826712,"PRD",1,1
-"1554","Chiapas","Motozintla","07057","2001","Municipal",14821,3.01629055336931,"PRI",1,2
-"1555","Chiapas","Motozintla","07057","2004","Municipal",17049,2.91664282594917,"PAN_C",1,3
-"1556","Chiapas","Motozintla","07057","2007","Municipal",18798,6.12019179930786,"PRI",1,4
-"1557","Chiapas","Motozintla","07057","2010","Municipal",19842,3.10985550182656,"PRI",0,4
-"1558","Chiapas","Motozintla","07057","2012","Municipal",22123,2.9042742623461,"PRD_C",1,5
-"1559","Chiapas","Motozintla","07057","2015","Municipal",28165,3.06691079569578,"PRI",1,6
-"1560","Chiapas","Motozintla","07057","2018","Municipal",30893,3.32330587771651,"PRI",0,6
-"1561","Chiapas","Nicolas Ruiz","07058","1985","Municipal",1357,1,"PRI",NA,NA
-"1562","Chiapas","Nicolas Ruiz","07058","1988","Municipal",1082,1,"PRI",0,0
-"1563","Chiapas","Nicolas Ruiz","07058","1991","Municipal",1155,1,"PRI",0,0
-"1564","Chiapas","Nicolas Ruiz","07058","1995","Municipal",1139,1,"PRD",1,1
-"1565","Chiapas","Nicolas Ruiz","07058","1998","Municipal",19146,2.3413256145599,"PRI",1,2
-"1566","Chiapas","Nicolas Ruiz","07058","2001","Municipal",1520,1.43356223752515,"PRD",1,3
-"1567","Chiapas","Nicolas Ruiz","07058","2004","Municipal",1100,1.00184331640654,"PRD",0,3
-"1568","Chiapas","Nicolas Ruiz","07058","2007","Municipal",1076,1,"PRD",0,3
-"1569","Chiapas","Nicolas Ruiz","07058","2010","Municipal",1339,1.06014973321874,"PAN_C",1,4
-"1570","Chiapas","Nicolas Ruiz","07058","2012","Municipal",1163,1,"PRD_C",1,5
-"1571","Chiapas","Nicolas Ruiz","07058","2018","Municipal",1813,2,"MORENA_C",1,6
-"1572","Chiapas","Ocosingo","07059","1985","Municipal",24171,1.04576526245484,"PRI",NA,NA
-"1573","Chiapas","Ocosingo","07059","1988","Municipal",11512,1.41413145665348,"PRI",0,0
-"1574","Chiapas","Ocosingo","07059","1991","Municipal",19559,1.37951385448233,"PRI",0,0
-"1575","Chiapas","Ocosingo","07059","1995","Municipal",40212,2.20853227715312,"PRD",1,1
-"1576","Chiapas","Ocosingo","07059","1998","Municipal",3217,2.44043451424962,"PRD",0,1
-"1577","Chiapas","Ocosingo","07059","2001","Municipal",24851,4.0532696810903,"PRI",1,2
-"1578","Chiapas","Ocosingo","07059","2004","Municipal",34472,3.24230686904371,"PRI",0,2
-"1579","Chiapas","Ocosingo","07059","2007","Municipal",42003,3.26270168586216,"PAN",1,3
-"1580","Chiapas","Ocosingo","07059","2010","Municipal",52093,3.30403125002118,"PAN_C",1,4
-"1581","Chiapas","Ocosingo","07059","2012","Municipal",48823,4.20409885816206,"PVEM",1,5
-"1582","Chiapas","Ocosingo","07059","2015","Municipal",64296,4.18670478317167,"MC",1,6
-"1583","Chiapas","Ocosingo","07059","2018","Municipal",86488,3.20302451920844,"MORENA_C",1,7
-"1584","Chiapas","Ocotepec","07060","1985","Municipal",2371,1.03605525612306,"PRI",NA,NA
-"1585","Chiapas","Ocotepec","07060","1988","Municipal",2285,1.00175207925108,"PRI",0,0
-"1586","Chiapas","Ocotepec","07060","1991","Municipal",1110,1,"PRI",0,0
-"1587","Chiapas","Ocotepec","07060","1995","Municipal",2428,2.05134401940868,"PRI",0,0
-"1588","Chiapas","Ocotepec","07060","1998","Municipal",15522,3.56548115232429,"PAN",1,1
-"1589","Chiapas","Ocotepec","07060","2001","Municipal",3709,2.22300231927443,"PRI",1,2
-"1590","Chiapas","Ocotepec","07060","2004","Municipal",4291,2.01928490896685,"PAN_C",1,3
-"1591","Chiapas","Ocotepec","07060","2007","Municipal",4008,2.0789986434893,"PRD_C",1,4
-"1592","Chiapas","Ocotepec","07060","2010","Municipal",4708,2.01720250752719,"PAN_C",1,5
-"1593","Chiapas","Ocotepec","07060","2012","Municipal",5087,1.97516485360081,"PRI",1,6
-"1594","Chiapas","Ocotepec","07060","2015","Municipal",5985,1.35977855983254,"PRI",0,6
-"1595","Chiapas","Ocotepec","07060","2018","Municipal",6546,2.9599836522328,"MORENA_C",1,7
-"1596","Chiapas","Ocozocoautla De Espinosa","07061","1985","Municipal",4737,1,"PRI",NA,NA
-"1597","Chiapas","Ocozocoautla De Espinosa","07061","1988","Municipal",3836,1.61137111513364,"PRI",0,0
-"1598","Chiapas","Ocozocoautla De Espinosa","07061","1991","Municipal",8154,1.73856001807391,"PRI",0,0
-"1599","Chiapas","Ocozocoautla De Espinosa","07061","1995","Municipal",14870,2.55931906491064,"PRI",0,0
-"1600","Chiapas","Ocozocoautla De Espinosa","07061","1998","Municipal",4512,2.12468159556045,"PRI",0,0
-"1601","Chiapas","Ocozocoautla De Espinosa","07061","2001","Municipal",20441,4.73780601899942,"PRD",1,1
-"1602","Chiapas","Ocozocoautla De Espinosa","07061","2004","Municipal",22858,3.86585254743114,"PRI",1,2
-"1603","Chiapas","Ocozocoautla De Espinosa","07061","2007","Municipal",28039,4.33487075601363,"PAN",1,3
-"1604","Chiapas","Ocozocoautla De Espinosa","07061","2010","Municipal",24212,3.81200031326487,"PRI",1,4
-"1605","Chiapas","Ocozocoautla De Espinosa","07061","2012","Municipal",23508,3.80089656597444,"PVEM",1,5
-"1606","Chiapas","Ocozocoautla De Espinosa","07061","2015","Municipal",38885,5.80235657807832,"MC",1,6
-"1607","Chiapas","Ocozocoautla De Espinosa","07061","2018","Municipal",40518,2.93920725633539,"PRD",1,7
-"1608","Chiapas","Ostuacan","07062","1985","Municipal",2491,1.11156251763384,"PRI",NA,NA
-"1609","Chiapas","Ostuacan","07062","1988","Municipal",2293,1,"PRI",0,0
-"1610","Chiapas","Ostuacan","07062","1991","Municipal",3756,1.28885168746639,"PRI",0,0
-"1611","Chiapas","Ostuacan","07062","1995","Municipal",5007,1.98299329846325,"PRI",0,0
-"1612","Chiapas","Ostuacan","07062","1998","Municipal",1211,2.63760391188765,"PRI",0,0
-"1613","Chiapas","Ostuacan","07062","2001","Municipal",6246,3.17814481087717,"PRI",0,0
-"1614","Chiapas","Ostuacan","07062","2004","Municipal",6857,1.94137005149012,"PAN_C",1,1
-"1615","Chiapas","Ostuacan","07062","2007","Municipal",6775,2.83017307828184,"PRI",1,2
-"1616","Chiapas","Ostuacan","07062","2010","Municipal",7266,2.22666148299141,"PAN_C",1,3
-"1617","Chiapas","Ostuacan","07062","2012","Municipal",7655,3.49423444372568,"PANAL",1,4
-"1618","Chiapas","Ostuacan","07062","2015","Municipal",9734,2.94452010263268,"PRI",1,5
-"1619","Chiapas","Ostuacan","07062","2018","Municipal",10221,3.09325107863707,"PVEM",1,6
-"1620","Chiapas","Osumacinta","07063","1985","Municipal",638,1.56978017740069,"PRI",NA,NA
-"1621","Chiapas","Osumacinta","07063","1988","Municipal",587,1.20860268610333,"PRI",0,0
-"1622","Chiapas","Osumacinta","07063","1991","Municipal",882,1.81211768268536,"PRI",0,0
-"1623","Chiapas","Osumacinta","07063","1995","Municipal",797,1.9636711569177,"PRI",0,0
-"1624","Chiapas","Osumacinta","07063","1998","Municipal",8730,2.00096593786951,"PRI",0,0
-"1625","Chiapas","Osumacinta","07063","2001","Municipal",1465,2.18117727988032,"PRI",0,0
-"1626","Chiapas","Osumacinta","07063","2004","Municipal",1658,2.28836755821905,"PRI",0,0
-"1627","Chiapas","Osumacinta","07063","2007","Municipal",1602,1.99312080390115,"PAN",1,1
-"1628","Chiapas","Osumacinta","07063","2010","Municipal",1970,1.99518411258809,"PAN_C",1,2
-"1629","Chiapas","Osumacinta","07063","2012","Municipal",1271,2.09869215069563,"PRI",1,3
-"1630","Chiapas","Osumacinta","07063","2015","Municipal",2222,3.01552533918744,"PAN",1,4
-"1631","Chiapas","Osumacinta","07063","2018","Municipal",2527,2.9195328232377,"PAN_C",1,5
-"1632","Chiapas","Oxchuc","07064","1985","Municipal",10355,1,"PRI",NA,NA
-"1633","Chiapas","Oxchuc","07064","1988","Municipal",8480,1,"PRI",0,0
-"1634","Chiapas","Oxchuc","07064","1991","Municipal",11073,1,"PRI",0,0
-"1635","Chiapas","Oxchuc","07064","1995","Municipal",11699,1.99583811470233,"PRI",0,0
-"1636","Chiapas","Oxchuc","07064","1998","Municipal",14714,2.38745745535663,"PRI",0,0
-"1637","Chiapas","Oxchuc","07064","2001","Municipal",11648,2.13738495533848,"PRI",0,0
-"1638","Chiapas","Oxchuc","07064","2004","Municipal",13760,2.21535666125429,"PRI",0,0
-"1639","Chiapas","Oxchuc","07064","2007","Municipal",16061,3.22492805104703,"PRI",0,0
-"1640","Chiapas","Oxchuc","07064","2010","Municipal",15439,3.1422058462468,"PAN_C",1,1
-"1641","Chiapas","Oxchuc","07064","2012","Municipal",19467,3.85230263020877,"PRI",1,2
-"1642","Chiapas","Oxchuc","07064","2015","Municipal",24419,2.73916409381843,"PANAL",1,3
-"1643","Chiapas","Palenque","07065","1985","Municipal",9734,1,"PRI",NA,NA
-"1644","Chiapas","Palenque","07065","1988","Municipal",5032,1.75548424516606,"PRI",0,0
-"1645","Chiapas","Palenque","07065","1991","Municipal",13712,1.64993595997617,"PRI",0,0
-"1646","Chiapas","Palenque","07065","1995","Municipal",24228,2.16997377046004,"PRI",0,0
-"1647","Chiapas","Palenque","07065","1998","Municipal",3404,1.91984163282127,"PRI",0,0
-"1648","Chiapas","Palenque","07065","2001","Municipal",17753,2.51554867958987,"PRI",0,0
-"1649","Chiapas","Palenque","07065","2004","Municipal",23593,2.45998560636424,"PRD",1,1
-"1650","Chiapas","Palenque","07065","2007","Municipal",31571,3.44833429183964,"MC",1,2
-"1651","Chiapas","Palenque","07065","2010","Municipal",33510,2.72064673064461,"PT",1,3
-"1652","Chiapas","Palenque","07065","2012","Municipal",30219,3.46149869042994,"PRD_C",1,4
-"1653","Chiapas","Palenque","07065","2015","Municipal",45055,4.61196525234848,"PT_C",1,5
-"1654","Chiapas","Palenque","07065","2018","Municipal",55198,3.35402414433793,"PVEM",1,6
-"1655","Chiapas","Pantelho","07066","1985","Municipal",4469,1.07176641800228,"PRI",NA,NA
-"1656","Chiapas","Pantelho","07066","1988","Municipal",4463,1,"PRI",0,0
-"1657","Chiapas","Pantelho","07066","1991","Municipal",3122,1,"PRI",0,0
-"1658","Chiapas","Pantelho","07066","1995","Municipal",4199,2.41307155757467,"PRD",1,1
-"1659","Chiapas","Pantelho","07066","1998","Municipal",3011,1.81172562811505,"PRI",1,2
-"1660","Chiapas","Pantelho","07066","2001","Municipal",4474,3.94080541112761,"PRI",0,2
-"1661","Chiapas","Pantelho","07066","2004","Municipal",5079,3.73469404425075,"PRD",1,3
-"1662","Chiapas","Pantelho","07066","2007","Municipal",7326,2.97577843596933,"PRD",0,3
-"1663","Chiapas","Pantelho","07066","2010","Municipal",7898,2.68325698071293,"PAN_C",1,4
-"1664","Chiapas","Pantelho","07066","2012","Municipal",7859,2.69868641305733,"PRD_C",1,5
-"1665","Chiapas","Pantelho","07066","2015","Municipal",9499,2.58828898138155,"PRD",0,5
-"1666","Chiapas","Pantelho","07066","2018","Municipal",10181,2.98313321997033,"PRD",0,5
-"1667","Chiapas","Pantepec","07067","1985","Municipal",1193,1,"PRI",NA,NA
-"1668","Chiapas","Pantepec","07067","1988","Municipal",1270,1,"PRI",0,0
-"1669","Chiapas","Pantepec","07067","1991","Municipal",2480,1,"PRI",0,0
-"1670","Chiapas","Pantepec","07067","1995","Municipal",2619,1.23581779425726,"PRI",0,0
-"1671","Chiapas","Pantepec","07067","1998","Municipal",8200,3.21414064960657,"PRI",0,0
-"1672","Chiapas","Pantepec","07067","2001","Municipal",3756,2.2868405522898,"PRI",0,0
-"1673","Chiapas","Pantepec","07067","2004","Municipal",4354,2.80641546513168,"PRD",1,1
-"1674","Chiapas","Pantepec","07067","2007","Municipal",4948,3.80775082129752,"PRI",1,2
-"1675","Chiapas","Pantepec","07067","2010","Municipal",5090,3.94562016539783,"PRI",0,2
-"1676","Chiapas","Pantepec","07067","2012","Municipal",3552,3.12823621342055,"PRI",0,2
-"1677","Chiapas","Pantepec","07067","2015","Municipal",6273,2.77159573854914,"PAN",1,3
-"1678","Chiapas","Pantepec","07067","2018","Municipal",6386,2.93388910003261,"PVEM",1,4
-"1679","Chiapas","Pichucalco","07068","1985","Municipal",7045,1,"PRI",NA,NA
-"1680","Chiapas","Pichucalco","07068","1988","Municipal",6343,1,"PRI",0,0
-"1681","Chiapas","Pichucalco","07068","1991","Municipal",4935,1.23088087529307,"PRI",0,0
-"1682","Chiapas","Pichucalco","07068","1995","Municipal",10332,2.2311629606056,"PRI",0,0
-"1683","Chiapas","Pichucalco","07068","1998","Municipal",14583,2.19060305982969,"PRI",0,0
-"1684","Chiapas","Pichucalco","07068","2001","Municipal",9825,3.99769376529903,"PRD",1,1
-"1685","Chiapas","Pichucalco","07068","2004","Municipal",11668,2.81531332208439,"PAN_C",1,2
-"1686","Chiapas","Pichucalco","07068","2007","Municipal",12447,4.18829874909289,"PAN",0,2
-"1687","Chiapas","Pichucalco","07068","2010","Municipal",12894,2.05091272593606,"PRI",1,3
-"1688","Chiapas","Pichucalco","07068","2012","Municipal",10533,2.96465543293825,"PVEM",1,4
-"1689","Chiapas","Pichucalco","07068","2015","Municipal",14525,4.00772409098478,"PRD",1,5
-"1690","Chiapas","Pichucalco","07068","2018","Municipal",16089,3.25313938606848,"PVEM",1,6
-"1691","Chiapas","Pijijiapan","07069","1985","Municipal",4396,1.13133942496382,"PRI",NA,NA
-"1692","Chiapas","Pijijiapan","07069","1988","Municipal",3143,1.60183211558223,"PRI",0,0
-"1693","Chiapas","Pijijiapan","07069","1991","Municipal",9241,1.84301677707829,"PRI",0,0
-"1694","Chiapas","Pijijiapan","07069","1995","Municipal",11483,2.37599006957749,"PRI",0,0
-"1695","Chiapas","Pijijiapan","07069","1998","Municipal",3249,1.93929325749437,"PRI",0,0
-"1696","Chiapas","Pijijiapan","07069","2001","Municipal",15718,3.57940097949239,"PRI",0,0
-"1697","Chiapas","Pijijiapan","07069","2004","Municipal",17035,2.70723125245303,"PRD",1,1
-"1698","Chiapas","Pijijiapan","07069","2007","Municipal",13407,2.01690325273087,"PRI",1,2
-"1699","Chiapas","Pijijiapan","07069","2010","Municipal",17921,2.26953450289183,"PAN_C",1,3
-"1700","Chiapas","Pijijiapan","07069","2012","Municipal",19171,2.89064475346666,"PVEM",1,4
-"1701","Chiapas","Pijijiapan","07069","2015","Municipal",23746,5.25238659597804,"PRI",1,5
-"1702","Chiapas","Pijijiapan","07069","2018","Municipal",24708,3.09201477515176,"MORENA_C",1,6
-"1703","Chiapas","El Porvenir","07070","1985","Municipal",3378,1,"PRI",NA,NA
-"1704","Chiapas","El Porvenir","07070","1988","Municipal",2463,1.01802393536461,"PRI",0,0
-"1705","Chiapas","El Porvenir","07070","1991","Municipal",3305,1.39946829807338,"PRI",0,0
-"1706","Chiapas","El Porvenir","07070","1995","Municipal",3221,1.79758781668157,"PRI",0,0
-"1707","Chiapas","El Porvenir","07070","1998","Municipal",8017,2.2142355814756,"PRD",1,1
-"1708","Chiapas","El Porvenir","07070","2001","Municipal",3746,2.38367100432471,"PRI",1,2
-"1709","Chiapas","El Porvenir","07070","2004","Municipal",4068,1.99201403630203,"PRI",0,2
-"1710","Chiapas","El Porvenir","07070","2007","Municipal",4959,4.02101037311402,"PRI",0,2
-"1711","Chiapas","El Porvenir","07070","2010","Municipal",5333,3.73826527594298,"PT",1,3
-"1712","Chiapas","El Porvenir","07070","2012","Municipal",5549,2.64609507107334,"PRD_C",1,4
-"1713","Chiapas","El Porvenir","07070","2015","Municipal",6439,3.30738793549746,"PRI",1,5
-"1714","Chiapas","El Porvenir","07070","2018","Municipal",6419,3.06327851619942,"MORENA",1,6
-"1715","Chiapas","Villa Comaltitlan","07071","1985","Municipal",3752,1.78974452206747,"PRI",NA,NA
-"1716","Chiapas","Villa Comaltitlan","07071","1988","Municipal",3965,1.68659996676412,"PRI",0,0
-"1717","Chiapas","Villa Comaltitlan","07071","1991","Municipal",5445,1.6821443714168,"PRI",0,0
-"1718","Chiapas","Villa Comaltitlan","07071","1995","Municipal",7579,2.56296860840867,"PRI",0,0
-"1719","Chiapas","Villa Comaltitlan","07071","1998","Municipal",6609,3.76952670947243,"PRD",1,1
-"1720","Chiapas","Villa Comaltitlan","07071","2001","Municipal",8665,3.34155626124115,"PRI",1,2
-"1721","Chiapas","Villa Comaltitlan","07071","2004","Municipal",10305,2.65804142855267,"PVEM",1,3
-"1722","Chiapas","Villa Comaltitlan","07071","2007","Municipal",8734,2.91036349814725,"PRI",1,4
-"1723","Chiapas","Villa Comaltitlan","07071","2010","Municipal",11496,3.55232479774058,"PT",1,5
-"1724","Chiapas","Villa Comaltitlan","07071","2012","Municipal",10638,3.64924425124239,"PRD_C",1,6
-"1725","Chiapas","Pueblo Nuevo Solistahuacan","07072","1985","Municipal",4285,1,"PRI",NA,NA
-"1726","Chiapas","Pueblo Nuevo Solistahuacan","07072","1988","Municipal",2832,1.33267930848837,"PRI",0,0
-"1727","Chiapas","Pueblo Nuevo Solistahuacan","07072","1991","Municipal",1073,1.32132393024577,"PRI",0,0
-"1728","Chiapas","Pueblo Nuevo Solistahuacan","07072","1995","Municipal",4707,2.27185627351216,"PRI",0,0
-"1729","Chiapas","Pueblo Nuevo Solistahuacan","07072","1998","Municipal",2224,2.80433691527409,"PAN",1,1
-"1730","Chiapas","Pueblo Nuevo Solistahuacan","07072","2001","Municipal",7392,2.28795446957408,"PRI",1,2
-"1731","Chiapas","Pueblo Nuevo Solistahuacan","07072","2004","Municipal",10086,3.02918157298559,"PRD",1,3
-"1732","Chiapas","Pueblo Nuevo Solistahuacan","07072","2007","Municipal",10538,2.84096357867286,"PRD",0,3
-"1733","Chiapas","Pueblo Nuevo Solistahuacan","07072","2010","Municipal",12523,2.02906601584253,"PAN_C",1,4
-"1734","Chiapas","Pueblo Nuevo Solistahuacan","07072","2012","Municipal",2972,3.05206717170278,"PRI",1,5
-"1735","Chiapas","Pueblo Nuevo Solistahuacan","07072","2015","Municipal",13469,3.34939722384508,"PRD",1,6
-"1736","Chiapas","Pueblo Nuevo Solistahuacan","07072","2018","Municipal",13182,3.10029096738312,"PRD",0,6
-"1737","Chiapas","Pueblo Nuevo Solistahuacan","07072","2018","Municipal",3018,2.78624051698937,"MORENA",1,7
-"1738","Chiapas","Rayon","07073","1985","Municipal",1406,1.74124548577468,"PRI",NA,NA
-"1739","Chiapas","Rayon","07073","1988","Municipal",2600,1,"PRI",0,0
-"1740","Chiapas","Rayon","07073","1991","Municipal",1365,1,"PRI",0,0
-"1741","Chiapas","Rayon","07073","1995","Municipal",1626,2.41972081771347,"PRI",0,0
-"1742","Chiapas","Rayon","07073","1998","Municipal",9608,2.33857093299644,"PRI",0,0
-"1743","Chiapas","Rayon","07073","2001","Municipal",2577,2.97490464957114,"PRI",0,0
-"1744","Chiapas","Rayon","07073","2004","Municipal",3038,4.97583121463185,"PRD",1,1
-"1745","Chiapas","Rayon","07073","2007","Municipal",3356,3.15790737804236,"PAN",1,2
-"1746","Chiapas","Rayon","07073","2010","Municipal",3569,3.47238133246426,"PVEM",1,3
-"1747","Chiapas","Rayon","07073","2012","Municipal",12317,3.16814242097756,"PRI",1,4
-"1748","Chiapas","Rayon","07073","2015","Municipal",4789,2.08957046031224,"PRD",1,5
-"1749","Chiapas","Rayon","07073","2018","Municipal",5131,2.90186064407716,"PRI",1,6
-"1750","Chiapas","Reforma","07074","1985","Municipal",1234,1.84065563466257,"PRI",NA,NA
-"1751","Chiapas","Reforma","07074","1988","Municipal",2347,1.18470370304256,"PRI",0,0
-"1752","Chiapas","Reforma","07074","1991","Municipal",7776,1.68153968139552,"PRI",0,0
-"1753","Chiapas","Reforma","07074","1995","Municipal",11264,2.60812684570881,"PRI",0,0
-"1754","Chiapas","Reforma","07074","1998","Municipal",5882,2.49332982360659,"PRD",1,1
-"1755","Chiapas","Reforma","07074","2001","Municipal",9079,4.0308720318879,"PRI",1,2
-"1756","Chiapas","Reforma","07074","2004","Municipal",12288,2.3598519009445,"PAN_C",1,3
-"1757","Chiapas","Reforma","07074","2007","Municipal",14100,6.08826727067836,"PVEM",1,4
-"1758","Chiapas","Reforma","07074","2010","Municipal",12304,3.29728375807225,"PAN_C",1,5
-"1759","Chiapas","Reforma","07074","2012","Municipal",10128,2.90538913779075,"PVEM",1,6
-"1760","Chiapas","Reforma","07074","2015","Municipal",17665,3.64427457254841,"PRI",1,7
-"1761","Chiapas","Reforma","07074","2018","Municipal",20732,2.98934637129147,"PVEM",1,8
-"1762","Chiapas","Las Rosas","07075","1985","Municipal",2906,1,"PRI",NA,NA
-"1763","Chiapas","Las Rosas","07075","1988","Municipal",2023,1,"PRI",0,0
-"1764","Chiapas","Las Rosas","07075","1991","Municipal",2827,1,"PRI",0,0
-"1765","Chiapas","Las Rosas","07075","1995","Municipal",5770,2.52187318993806,"PRI",0,0
-"1766","Chiapas","Las Rosas","07075","1998","Municipal",6223,2.30082047645548,"PRI",0,0
-"1767","Chiapas","Las Rosas","07075","2001","Municipal",6940,3.94324757555325,"PRI",0,0
-"1768","Chiapas","Las Rosas","07075","2004","Municipal",8200,3.94806570001805,"PAN",1,1
-"1769","Chiapas","Las Rosas","07075","2007","Municipal",8629,4.47239664131385,"PRD_C",1,2
-"1770","Chiapas","Las Rosas","07075","2010","Municipal",8596,2.7817163499705,"PAN_C",1,3
-"1771","Chiapas","Las Rosas","07075","2012","Municipal",12283,2.15317213120543,"PRD_C",1,4
-"1772","Chiapas","Las Rosas","07075","2015","Municipal",12128,3.39101614589297,"PRI",1,5
-"1773","Chiapas","Las Rosas","07075","2018","Municipal",11465,3.21737738755982,"MORENA_C",1,6
-"1774","Chiapas","Sabanilla","07076","1985","Municipal",615,1,"PRI",NA,NA
-"1775","Chiapas","Sabanilla","07076","1988","Municipal",4900,1,"PRI",0,0
-"1776","Chiapas","Sabanilla","07076","1991","Municipal",5374,1,"PRI",0,0
-"1777","Chiapas","Sabanilla","07076","1995","Municipal",5770,2.08699284007692,"PRI",0,0
-"1778","Chiapas","Sabanilla","07076","1998","Municipal",8324,3.12366586544526,"PRI",0,0
-"1779","Chiapas","Sabanilla","07076","2001","Municipal",6947,2.23243871914196,"PRD",1,1
-"1780","Chiapas","Sabanilla","07076","2004","Municipal",8812,3.88913529698879,"PRI",1,2
-"1781","Chiapas","Sabanilla","07076","2007","Municipal",7031,2.14230644508165,"PRI",0,2
-"1782","Chiapas","Sabanilla","07076","2010","Municipal",11491,3.62401055412982,"PAN_C",1,3
-"1783","Chiapas","Sabanilla","07076","2012","Municipal",22939,3.02139271721573,"PRI",1,4
-"1784","Chiapas","Sabanilla","07076","2015","Municipal",14453,2.16417700070962,"PRD",1,5
-"1785","Chiapas","Sabanilla","07076","2018","Municipal",15177,2.69468118257266,"PRI",1,6
-"1786","Chiapas","Salto De Agua","07077","1985","Municipal",8928,1,"PRI",NA,NA
-"1787","Chiapas","Salto De Agua","07077","1988","Municipal",5529,1.66562177461181,"PRI",0,0
-"1788","Chiapas","Salto De Agua","07077","1991","Municipal",9637,1,"PRI",0,0
-"1789","Chiapas","Salto De Agua","07077","1995","Municipal",12641,2.1838071780634,"PRD",1,1
-"1790","Chiapas","Salto De Agua","07077","1998","Municipal",27762,2.45462017347628,"PRI",1,2
-"1791","Chiapas","Salto De Agua","07077","2001","Municipal",10003,3.15717614581346,"PRI",0,2
-"1792","Chiapas","Salto De Agua","07077","2004","Municipal",15817,2.78506071810939,"PRI",0,2
-"1793","Chiapas","Salto De Agua","07077","2007","Municipal",11677,1.98475289102753,"PRI",0,2
-"1794","Chiapas","Salto De Agua","07077","2010","Municipal",22633,3.41575437482025,"PAN_C",1,3
-"1795","Chiapas","Salto De Agua","07077","2012","Municipal",51369,3.01561209489941,"PRI",1,4
-"1796","Chiapas","Salto De Agua","07077","2015","Municipal",27953,3.9788020290564,"PRD",1,5
-"1797","Chiapas","Salto De Agua","07077","2018","Municipal",31138,2.95295002577669,"PVEM",1,6
-"1798","Chiapas","San Cristobal De Las Casas","07078","1985","Municipal",13920,1,"PRI",NA,NA
-"1799","Chiapas","San Cristobal De Las Casas","07078","1988","Municipal",7064,1.53864011240006,"PRI",0,0
-"1800","Chiapas","San Cristobal De Las Casas","07078","1991","Municipal",21983,1.72313170717371,"PRI",0,0
-"1801","Chiapas","San Cristobal De Las Casas","07078","1995","Municipal",40594,2.40420019416313,"PRI",0,0
-"1802","Chiapas","San Cristobal De Las Casas","07078","1998","Municipal",6775,3.11814561163843,"PRI",0,0
-"1803","Chiapas","San Cristobal De Las Casas","07078","2001","Municipal",34222,4.49252292389879,"PAS",1,1
-"1804","Chiapas","San Cristobal De Las Casas","07078","2004","Municipal",41787,2.6708124101261,"PRI",1,2
-"1805","Chiapas","San Cristobal De Las Casas","07078","2007","Municipal",48001,4.39854082078061,"PRI_C",1,3
-"1806","Chiapas","San Cristobal De Las Casas","07078","2010","Municipal",38670,2.69218228540573,"PAN_C",1,4
-"1807","Chiapas","San Cristobal De Las Casas","07078","2012","Municipal",13088,2.71724297599796,"PVEM",1,5
-"1808","Chiapas","San Cristobal De Las Casas","07078","2015","Municipal",58872,6.22728248321945,"MORENA",1,6
-"1809","Chiapas","San Cristobal De Las Casas","07078","2018","Municipal",84203,3.22266206863826,"MORENA_C",1,7
-"1810","Chiapas","San Fernando","07079","1985","Municipal",3652,1.4023881526096,"PRI",NA,NA
-"1811","Chiapas","San Fernando","07079","1988","Municipal",5305,1.22332910836066,"PRI",0,0
-"1812","Chiapas","San Fernando","07079","1991","Municipal",8234,1,"PRI",0,0
-"1813","Chiapas","San Fernando","07079","1995","Municipal",6894,2.63455284260273,"PRI",0,0
-"1814","Chiapas","San Fernando","07079","1998","Municipal",7507,2.31028558049742,"PRI",0,0
-"1815","Chiapas","San Fernando","07079","2001","Municipal",9965,3.51417097524007,"PRI",0,0
-"1816","Chiapas","San Fernando","07079","2004","Municipal",11450,3.52570786329851,"PRI",0,0
-"1817","Chiapas","San Fernando","07079","2007","Municipal",9921,1.80836515777642,"PAN",1,1
-"1818","Chiapas","San Fernando","07079","2010","Municipal",13564,3.03202768777075,"PAN_C",1,2
-"1819","Chiapas","San Fernando","07079","2012","Municipal",11426,2.27452154857765,"PRI",1,3
-"1820","Chiapas","San Fernando","07079","2015","Municipal",18203,2.99761657725847,"PRI",0,3
-"1821","Chiapas","San Fernando","07079","2018","Municipal",19713,3.03263480100227,"PVEM",1,4
-"1822","Chiapas","Siltepec","07080","1985","Municipal",7722,1,"PRI",NA,NA
-"1823","Chiapas","Siltepec","07080","1988","Municipal",7132,1,"PRI",0,0
-"1824","Chiapas","Siltepec","07080","1991","Municipal",7526,1.29055736602573,"PRI",0,0
-"1825","Chiapas","Siltepec","07080","1995","Municipal",5664,1.86666439685197,"PRI",0,0
-"1826","Chiapas","Siltepec","07080","1998","Municipal",7840,3.27735768290685,"PRI",0,0
-"1827","Chiapas","Siltepec","07080","2001","Municipal",9230,3.25456806417057,"PRI",0,0
-"1828","Chiapas","Siltepec","07080","2004","Municipal",9977,2.59238950830921,"PRI",0,0
-"1829","Chiapas","Siltepec","07080","2007","Municipal",12590,4.34241635684553,"PVEM",1,1
-"1830","Chiapas","Siltepec","07080","2010","Municipal",14066,2.99672089852565,"PRI",1,2
-"1831","Chiapas","Siltepec","07080","2012","Municipal",2362,2.80292840656862,"PRI",0,2
-"1832","Chiapas","Siltepec","07080","2015","Municipal",17308,3.5210654779451,"PRI",0,2
-"1833","Chiapas","Siltepec","07080","2018","Municipal",1967,2.95796199062781,"PVEM",1,3
-"1834","Chiapas","Siltepec","07080","2018","Municipal",16381,3.30732414519979,"PRI",1,4
-"1835","Chiapas","Simojovel","07081","1985","Municipal",6383,1.33470362378911,"PRI",NA,NA
-"1836","Chiapas","Simojovel","07081","1988","Municipal",4526,2.05531467530933,"PRI",0,0
-"1837","Chiapas","Simojovel","07081","1991","Municipal",6602,1.77881951895348,"PRI",0,0
-"1838","Chiapas","Simojovel","07081","1995","Municipal",4481,2.76139192742254,"PRI",0,0
-"1839","Chiapas","Simojovel","07081","1998","Municipal",3072,1.9987348158218,"PRI",0,0
-"1840","Chiapas","Simojovel","07081","2001","Municipal",9953,4.28176285058295,"PRI",0,0
-"1841","Chiapas","Simojovel","07081","2004","Municipal",10491,3.10595037573081,"PRI",0,0
-"1842","Chiapas","Simojovel","07081","2007","Municipal",11588,4.32549256770841,"PT_C",1,1
-"1843","Chiapas","Simojovel","07081","2010","Municipal",14840,3.59862056535871,"PRI",1,2
-"1844","Chiapas","Simojovel","07081","2012","Municipal",12273,3.11431058675225,"PRI",0,2
-"1845","Chiapas","Simojovel","07081","2015","Municipal",21258,1.16104195748679,"PRI",0,2
-"1846","Chiapas","Simojovel","07081","2018","Municipal",22880,3.06119930757541,"PVEM",1,3
-"1847","Chiapas","Sitala","07082","1985","Municipal",2281,1,"PRI",NA,NA
-"1848","Chiapas","Sitala","07082","1988","Municipal",1999,1,"PRI",0,0
-"1849","Chiapas","Sitala","07082","1991","Municipal",2550,1,"PRI",0,0
-"1850","Chiapas","Sitala","07082","1995","Municipal",2184,2.03218662510833,"PRD",1,1
-"1851","Chiapas","Sitala","07082","1998","Municipal",4162,2.21649428297268,"PRD",0,1
-"1852","Chiapas","Sitala","07082","2001","Municipal",4021,2.93840265647051,"PRD",0,1
-"1853","Chiapas","Sitala","07082","2004","Municipal",4468,1.98814990996505,"PRI",1,2
-"1854","Chiapas","Sitala","07082","2007","Municipal",2669,1,"PRI_C",1,3
-"1855","Chiapas","Sitala","07082","2010","Municipal",5681,2.0401082641272,"PAN_C",1,4
-"1856","Chiapas","Sitala","07082","2012","Municipal",16121,3.95881022315675,"PRI",1,5
-"1857","Chiapas","Sitala","07082","2015","Municipal",6801,1.02310542136561,"PRI",0,5
-"1858","Chiapas","Sitala","07082","2018","Municipal",6742,2.83867857900588,"NVA_ALIANZA",1,6
-"1859","Chiapas","Socoltenango","07083","1985","Municipal",3114,1,"PRI",NA,NA
-"1860","Chiapas","Socoltenango","07083","1988","Municipal",3398,1,"PRI",0,0
-"1861","Chiapas","Socoltenango","07083","1991","Municipal",4105,1,"PRI",0,0
-"1862","Chiapas","Socoltenango","07083","1995","Municipal",3498,2.07654029867688,"PRI",0,0
-"1863","Chiapas","Socoltenango","07083","1998","Municipal",2513,2.77399031726329,"PRI",0,0
-"1864","Chiapas","Socoltenango","07083","2001","Municipal",5498,1.92352677735536,"PRD",1,1
-"1865","Chiapas","Socoltenango","07083","2004","Municipal",5717,2.97428002406814,"PRI",1,2
-"1866","Chiapas","Socoltenango","07083","2007","Municipal",6744,4.62507541395843,"PRD_C",1,3
-"1867","Chiapas","Socoltenango","07083","2010","Municipal",7232,2.77484015857009,"PAN_C",1,4
-"1868","Chiapas","Socoltenango","07083","2012","Municipal",5958,2.26696779004231,"PRD_C",1,5
-"1869","Chiapas","Socoltenango","07083","2015","Municipal",9592,2.21645305976362,"PRI",1,6
-"1870","Chiapas","Socoltenango","07083","2018","Municipal",9900,3.3797919746063,"NVA_ALIANZA",1,7
-"1871","Chiapas","Solosuchiapa","07084","1985","Municipal",670,1.59043401240035,"PRI",NA,NA
-"1872","Chiapas","Solosuchiapa","07084","1988","Municipal",1974,1,"PRI",0,0
-"1873","Chiapas","Solosuchiapa","07084","1991","Municipal",2488,1,"PRI",0,0
-"1874","Chiapas","Solosuchiapa","07084","1995","Municipal",2034,1.35611538824379,"PRI",0,0
-"1875","Chiapas","Solosuchiapa","07084","1998","Municipal",2948,1.97804423819073,"PRI",0,0
-"1876","Chiapas","Solosuchiapa","07084","2001","Municipal",3095,2.35909331905489,"PRI",0,0
-"1877","Chiapas","Solosuchiapa","07084","2004","Municipal",3411,1.98798215385403,"PRI",0,0
-"1878","Chiapas","Solosuchiapa","07084","2007","Municipal",3869,2.81235016122161,"PAN",1,1
-"1879","Chiapas","Solosuchiapa","07084","2010","Municipal",3808,2.54128081273043,"PAN_C",1,2
-"1880","Chiapas","Solosuchiapa","07084","2012","Municipal",6750,2.45255363835882,"PVEM",1,3
-"1881","Chiapas","Solosuchiapa","07084","2015","Municipal",4489,2.73887721258399,"PRI",1,4
-"1882","Chiapas","Solosuchiapa","07084","2018","Municipal",4465,2.88617353502695,"PVEM",1,5
-"1883","Chiapas","Soyalo","07085","1985","Municipal",1281,1.14850099910063,"PRI",NA,NA
-"1884","Chiapas","Soyalo","07085","1988","Municipal",856,1.97412506398685,"PRI",0,0
-"1885","Chiapas","Soyalo","07085","1991","Municipal",2213,1.16216497132775,"PRI",0,0
-"1886","Chiapas","Soyalo","07085","1995","Municipal",2289,1.50644299597159,"PRI",0,0
-"1887","Chiapas","Soyalo","07085","1998","Municipal",5971,2.57264230193217,"PRD",1,1
-"1888","Chiapas","Soyalo","07085","2001","Municipal",3406,3.67265609071676,"PRI",1,2
-"1889","Chiapas","Soyalo","07085","2004","Municipal",3724,2.95343969292597,"PRD",1,3
-"1890","Chiapas","Soyalo","07085","2007","Municipal",3195,2.95241688476841,"PRI",1,4
-"1891","Chiapas","Soyalo","07085","2010","Municipal",4266,4.54945996484904,"PAN_C",1,5
-"1892","Chiapas","Soyalo","07085","2012","Municipal",2254,2.12326029446796,"PRI",1,6
-"1893","Chiapas","Soyalo","07085","2015","Municipal",5394,2.6723222440826,"PRI",0,6
-"1894","Chiapas","Soyalo","07085","2018","Municipal",5710,3.2191790680556,"Independiente.1",1,7
-"1895","Chiapas","Suchiapa","07086","1985","Municipal",2767,1.99128999562796,"PRI",NA,NA
-"1896","Chiapas","Suchiapa","07086","1988","Municipal",3166,1.97585268600922,"PRI",0,0
-"1897","Chiapas","Suchiapa","07086","1991","Municipal",4172,1,"PRI",0,0
-"1898","Chiapas","Suchiapa","07086","1995","Municipal",4335,2.72145209248743,"PRI",0,0
-"1899","Chiapas","Suchiapa","07086","1998","Municipal",7447,3.1455050830334,"PRI",0,0
-"1900","Chiapas","Suchiapa","07086","2001","Municipal",7341,5.62324297788623,"PVEM",1,1
-"1901","Chiapas","Suchiapa","07086","2004","Municipal",8128,3.37642308928157,"PRI",1,2
-"1902","Chiapas","Suchiapa","07086","2007","Municipal",9554,4.71134348295948,"PAN",1,3
-"1903","Chiapas","Suchiapa","07086","2010","Municipal",9650,3.35742590104913,"PVEM",1,4
-"1904","Chiapas","Suchiapa","07086","2012","Municipal",4568,4.00749123568482,"PVEM",0,4
-"1905","Chiapas","Suchiapa","07086","2015","Municipal",11685,3.21455291165873,"PAN",1,5
-"1906","Chiapas","Suchiapa","07086","2018","Municipal",12801,3.03550708787952,"PVEM",1,6
-"1907","Chiapas","Suchiate","07087","1985","Municipal",2601,1.98692428266528,"PRI",NA,NA
-"1908","Chiapas","Suchiate","07087","1988","Municipal",2438,1.99397631587776,"PRI",0,0
-"1909","Chiapas","Suchiate","07087","1991","Municipal",6074,1.6278918390956,"PRI",0,0
-"1910","Chiapas","Suchiate","07087","1995","Municipal",8348,2.65794281463065,"PRD",1,1
-"1911","Chiapas","Suchiate","07087","1998","Municipal",748,1.82372928272378,"PRI",1,2
-"1912","Chiapas","Suchiate","07087","2001","Municipal",8502,4.14725845862797,"PRD",1,3
-"1913","Chiapas","Suchiate","07087","2004","Municipal",9088,4.66003891190458,"PRI",1,4
-"1914","Chiapas","Suchiate","07087","2007","Municipal",8097,3.52386417645893,"PAN",1,5
-"1915","Chiapas","Suchiate","07087","2010","Municipal",10904,3.75941918137702,"PVEM",1,6
-"1916","Chiapas","Suchiate","07087","2012","Municipal",7441,3.34414546781462,"PRI",1,7
-"1917","Chiapas","Suchiate","07087","2015","Municipal",15169,4.78740564739558,"PRI",0,7
-"1918","Chiapas","Suchiate","07087","2018","Municipal",16680,3.2885288255826,"PVEM",1,8
-"1919","Chiapas","Sunuapa","07088","1985","Municipal",666,1,"PRI",NA,NA
-"1920","Chiapas","Sunuapa","07088","1988","Municipal",666,1,"PRI",0,0
-"1921","Chiapas","Sunuapa","07088","1991","Municipal",716,1,"PRI",0,0
-"1922","Chiapas","Sunuapa","07088","1995","Municipal",691,1.22081956972998,"PRI",0,0
-"1923","Chiapas","Sunuapa","07088","1998","Municipal",51123,2.39250748935801,"PRI",0,0
-"1924","Chiapas","Sunuapa","07088","2001","Municipal",893,1.98299192004601,"PRI",0,0
-"1925","Chiapas","Sunuapa","07088","2004","Municipal",1072,2.46401930318093,"PT",1,1
-"1926","Chiapas","Sunuapa","07088","2007","Municipal",1252,3.53715178016715,"PRI_C",1,2
-"1927","Chiapas","Sunuapa","07088","2010","Municipal",1264,2.40171779747535,"PAN_C",1,3
-"1928","Chiapas","Sunuapa","07088","2012","Municipal",9269,2.84584026325034,"PVEM",1,4
-"1929","Chiapas","Sunuapa","07088","2015","Municipal",1553,2.01877415329992,"PANAL",1,5
-"1930","Chiapas","Sunuapa","07088","2018","Municipal",1525,2.75404467939487,"PAN_C",1,6
-"1931","Chiapas","Tapachula","07089","1985","Municipal",18373,1,"PRI",NA,NA
-"1932","Chiapas","Tapachula","07089","1988","Municipal",14168,1.42724542580126,"PRI",0,0
-"1933","Chiapas","Tapachula","07089","1991","Municipal",62830,1.93973987500277,"PRI",0,0
-"1934","Chiapas","Tapachula","07089","1995","Municipal",83969,2.43523291100893,"PRD",1,1
-"1935","Chiapas","Tapachula","07089","1998","Municipal",1543,1.99446042635456,"PRD",0,1
-"1936","Chiapas","Tapachula","07089","2001","Municipal",48410,2.88011728848262,"PRI",1,2
-"1937","Chiapas","Tapachula","07089","2004","Municipal",62107,2.27921017985783,"PAN_C",1,3
-"1938","Chiapas","Tapachula","07089","2007","Municipal",80125,2.98265301323484,"PRI",1,4
-"1939","Chiapas","Tapachula","07089","2010","Municipal",81855,2.28973799467934,"PAN_C",1,5
-"1940","Chiapas","Tapachula","07089","2012","Municipal",1294,2.83461597061164,"PVEM",1,6
-"1941","Chiapas","Tapachula","07089","2015","Municipal",97007,3.17581292530108,"PRI_C",1,7
-"1942","Chiapas","Tapachula","07089","2018","Municipal",131265,2.73179986825991,"MORENA_C",1,8
-"1943","Chiapas","Tapalapa","07090","1985","Municipal",1136,1,"PRI",NA,NA
-"1944","Chiapas","Tapalapa","07090","1988","Municipal",1204,1,"PRI",0,0
-"1945","Chiapas","Tapalapa","07090","1991","Municipal",1028,1.99275146422685,"PRI",0,0
-"1946","Chiapas","Tapalapa","07090","1995","Municipal",1193,2.01061917433145,"PRI",0,0
-"1947","Chiapas","Tapalapa","07090","1998","Municipal",3413,2.30119019356646,"PRI",0,0
-"1948","Chiapas","Tapalapa","07090","2001","Municipal",1821,2.19245365130674,"PRI",0,0
-"1949","Chiapas","Tapalapa","07090","2004","Municipal",2016,1.99999185406559,"PAN_C",1,1
-"1950","Chiapas","Tapalapa","07090","2007","Municipal",1407,1.36887127060296,"PRI",1,2
-"1951","Chiapas","Tapalapa","07090","2010","Municipal",2385,1.99227769589217,"PAN_C",1,3
-"1952","Chiapas","Tapalapa","07090","2012","Municipal",76661,1.88128777053436,"PRI",1,4
-"1953","Chiapas","Tapalapa","07090","2015","Municipal",2672,2.01244934836251,"PRD",1,5
-"1954","Chiapas","Tapalapa","07090","2018","Municipal",2750,2.90885891227338,"PRI",1,6
-"1955","Chiapas","Tapilula","07091","1985","Municipal",1494,1.77192684409994,"PRI",NA,NA
-"1956","Chiapas","Tapilula","07091","1988","Municipal",1296,1.50626048121676,"PRI",0,0
-"1957","Chiapas","Tapilula","07091","1991","Municipal",2784,1,"PRI",0,0
-"1958","Chiapas","Tapilula","07091","1995","Municipal",2482,2.12107302273484,"PRI",0,0
-"1959","Chiapas","Tapilula","07091","1998","Municipal",7872,1.79772295407622,"PRI",0,0
-"1960","Chiapas","Tapilula","07091","2001","Municipal",3530,2.64993107403919,"PAN",1,1
-"1961","Chiapas","Tapilula","07091","2004","Municipal",4366,2.06843103541012,"PRI",1,2
-"1962","Chiapas","Tapilula","07091","2007","Municipal",3194,1.87314299071337,"PAN",1,3
-"1963","Chiapas","Tapilula","07091","2010","Municipal",5117,2.40058040718821,"PRI",1,4
-"1964","Chiapas","Tapilula","07091","2012","Municipal",2430,2.01474250097071,"PRI",0,4
-"1965","Chiapas","Tapilula","07091","2015","Municipal",5955,3.35348214644587,"MC",1,5
-"1966","Chiapas","Tapilula","07091","2018","Municipal",6709,2.98515289840132,"PRI",1,6
-"1967","Chiapas","Tecpatan","07092","1985","Municipal",5868,1,"PRI",NA,NA
-"1968","Chiapas","Tecpatan","07092","1988","Municipal",3346,1.16045248429784,"PRI",0,0
-"1969","Chiapas","Tecpatan","07092","1991","Municipal",9449,1,"PRI",0,0
-"1970","Chiapas","Tecpatan","07092","1995","Municipal",10344,2.03280150800952,"PRI",0,0
-"1971","Chiapas","Tecpatan","07092","1998","Municipal",6064,2.80637570797215,"PRI",0,0
-"1972","Chiapas","Tecpatan","07092","2001","Municipal",10922,2.56560323906074,"PRI",0,0
-"1973","Chiapas","Tecpatan","07092","2004","Municipal",13861,2.91524065815814,"PAN_C",1,1
-"1974","Chiapas","Tecpatan","07092","2007","Municipal",11078,1.68190064296926,"PRI_C",1,2
-"1975","Chiapas","Tecpatan","07092","2010","Municipal",16949,2.40306949088021,"PRI",0,2
-"1976","Chiapas","Tecpatan","07092","2012","Municipal",3525,2.35712330464016,"PVEM",1,3
-"1977","Chiapas","Tecpatan","07092","2015","Municipal",11065,3.02185457999743,"Independiente.1",1,4
-"1978","Chiapas","Tecpatan","07092","2018","Municipal",11473,3.15541355214325,"PRI",1,5
-"1979","Chiapas","Tenejapa","07093","1985","Municipal",6906,1,"PRI",NA,NA
-"1980","Chiapas","Tenejapa","07093","1988","Municipal",7791,1,"PRI",0,0
-"1981","Chiapas","Tenejapa","07093","1991","Municipal",6053,1,"PRI",0,0
-"1982","Chiapas","Tenejapa","07093","1995","Municipal",9321,2.21722216242548,"PRI",0,0
-"1983","Chiapas","Tenejapa","07093","1998","Municipal",5808,2.70511181345615,"PRI",0,0
-"1984","Chiapas","Tenejapa","07093","2001","Municipal",9465,3.41131435666483,"PRI",0,0
-"1985","Chiapas","Tenejapa","07093","2004","Municipal",9694,2.31225536343212,"PAN_C",1,1
-"1986","Chiapas","Tenejapa","07093","2007","Municipal",7482,2.1514265720888,"PRI",1,2
-"1987","Chiapas","Tenejapa","07093","2010","Municipal",12884,3.91258764308975,"PAN_C",1,3
-"1988","Chiapas","Tenejapa","07093","2012","Municipal",8788,2.44361590001437,"PRI",1,4
-"1989","Chiapas","Tenejapa","07093","2015","Municipal",18790,2.16377543428976,"PRI",0,4
-"1990","Chiapas","Tenejapa","07093","2018","Municipal",19248,3.26170006162332,"PVEM",1,5
-"1991","Chiapas","Teopisca","07094","1985","Municipal",3968,1,"PRI",NA,NA
-"1992","Chiapas","Teopisca","07094","1988","Municipal",5627,1,"PRI",0,0
-"1993","Chiapas","Teopisca","07094","1991","Municipal",3817,1,"PRI",0,0
-"1994","Chiapas","Teopisca","07094","1995","Municipal",7201,2.36887691776802,"PRI",0,0
-"1995","Chiapas","Teopisca","07094","1998","Municipal",10559,2.12322070249131,"PRI",0,0
-"1996","Chiapas","Teopisca","07094","2001","Municipal",7118,3.64912635521394,"PRI",0,0
-"1997","Chiapas","Teopisca","07094","2004","Municipal",9488,2.6421556940348,"PRI",0,0
-"1998","Chiapas","Teopisca","07094","2007","Municipal",10587,2.58727224290459,"PRI_C",1,1
-"1999","Chiapas","Teopisca","07094","2010","Municipal",10452,3.42692763015156,"PAN_C",1,2
-"2000","Chiapas","Teopisca","07094","2012","Municipal",14579,2.51293943613887,"PVEM",1,3
-"2001","Chiapas","Teopisca","07094","2015","Municipal",17616,2.99972599692275,"PRI",1,4
-"2002","Chiapas","Teopisca","07094","2018","Municipal",19779,3.25882680661242,"PRI",0,4
-"2003","Chiapas","Tila","07096","1985","Municipal",10413,1.04595272679255,"PRI",NA,NA
-"2004","Chiapas","Tila","07096","1988","Municipal",10148,1,"PRI",0,0
-"2005","Chiapas","Tila","07096","1991","Municipal",12247,1.02940563041175,"PRI",0,0
-"2006","Chiapas","Tila","07096","1995","Municipal",11748,2.70257844729391,"PRD",1,1
-"2007","Chiapas","Tila","07096","1998","Municipal",19106,3.15296714733418,"PRI",1,2
-"2008","Chiapas","Tila","07096","2001","Municipal",17338,3.54789061065398,"PRI",0,2
-"2009","Chiapas","Tila","07096","2004","Municipal",19392,2.97020197556579,"PRI",0,2
-"2010","Chiapas","Tila","07096","2007","Municipal",23601,3.10575619355868,"PVEM",1,3
-"2011","Chiapas","Tila","07096","2010","Municipal",29066,3.22974428794922,"PVEM",0,3
-"2012","Chiapas","Tila","07096","2012","Municipal",12561,2.30170456029717,"PRI",1,4
-"2013","Chiapas","Tila","07096","2015","Municipal",32641,2.66108686627004,"PRI",0,4
-"2014","Chiapas","Tila","07096","2018","Municipal",29211,2.6457643879391,"PVEM",1,5
-"2015","Chiapas","Tonala","07097","1985","Municipal",11768,1.02616631850009,"PRI",NA,NA
-"2016","Chiapas","Tonala","07097","1988","Municipal",5318,1.25213077357443,"PRI",0,0
-"2017","Chiapas","Tonala","07097","1991","Municipal",16233,1.71752399259631,"PRI",0,0
-"2018","Chiapas","Tonala","07097","1995","Municipal",21766,2.53691067342038,"PRI",0,0
-"2019","Chiapas","Tonala","07097","1998","Municipal",2294,1.99528627094081,"PRD",1,1
-"2020","Chiapas","Tonala","07097","2001","Municipal",26506,4.7762453679507,"PAN",1,2
-"2021","Chiapas","Tonala","07097","2004","Municipal",26898,3.22380860453995,"PRI",1,3
-"2022","Chiapas","Tonala","07097","2007","Municipal",23944,3.03666116989417,"PAN_C",1,4
-"2023","Chiapas","Tonala","07097","2010","Municipal",26568,2.72664222707999,"PAN_C",0,4
-"2024","Chiapas","Tonala","07097","2012","Municipal",25399,2.2844046134165,"PVEM",1,5
-"2025","Chiapas","Tonala","07097","2015","Municipal",35481,4.25109031632877,"PRI",1,6
-"2026","Chiapas","Tonala","07097","2018","Municipal",42853,3.15467639604079,"PVEM",1,7
-"2027","Chiapas","Totolapa","07098","1985","Municipal",1027,1.67666139429153,"PRI",NA,NA
-"2028","Chiapas","Totolapa","07098","1988","Municipal",1900,1,"PRI",0,0
-"2029","Chiapas","Totolapa","07098","1991","Municipal",671,1,"PRI",0,0
-"2030","Chiapas","Totolapa","07098","1995","Municipal",680,2.98627386109209,"PRI",0,0
-"2031","Chiapas","Totolapa","07098","1998","Municipal",9660,2.5710977758023,"PRI",0,0
-"2032","Chiapas","Totolapa","07098","2001","Municipal",2681,2.49894483504153,"PRI",0,0
-"2033","Chiapas","Totolapa","07098","2004","Municipal",2960,2.96656080623006,"PAN_C",1,1
-"2034","Chiapas","Totolapa","07098","2007","Municipal",3247,3.62512653913649,"PRI_C",1,2
-"2035","Chiapas","Totolapa","07098","2010","Municipal",3580,2.04691490192511,"PAN_C",1,3
-"2036","Chiapas","Totolapa","07098","2012","Municipal",29463,4.30623078369292,"PRI",1,4
-"2037","Chiapas","Totolapa","07098","2015","Municipal",4497,1.07177259833262,"PRD",1,5
-"2038","Chiapas","Totolapa","07098","2018","Municipal",4757,2.65926057736898,"PRD",0,5
-"2039","Chiapas","La Trinitaria","07099","1985","Municipal",9066,1,"PRI",NA,NA
-"2040","Chiapas","La Trinitaria","07099","1988","Municipal",8680,1,"PRI",0,0
-"2041","Chiapas","La Trinitaria","07099","1991","Municipal",18114,1,"PRI",0,0
-"2042","Chiapas","La Trinitaria","07099","1995","Municipal",14266,2.30860860584087,"PRI",0,0
-"2043","Chiapas","La Trinitaria","07099","1998","Municipal",6693,2.4628017209754,"PRI",0,0
-"2044","Chiapas","La Trinitaria","07099","2001","Municipal",16222,2.11964702104363,"PRI",0,0
-"2045","Chiapas","La Trinitaria","07099","2004","Municipal",20599,2.93890047370049,"PRI",0,0
-"2046","Chiapas","La Trinitaria","07099","2007","Municipal",25138,3.58007747437295,"PT_C",1,1
-"2047","Chiapas","La Trinitaria","07099","2010","Municipal",32126,2.07653524429771,"PRI",1,2
-"2048","Chiapas","La Trinitaria","07099","2012","Municipal",3938,2.89156916752251,"PRD_C",1,3
-"2049","Chiapas","La Trinitaria","07099","2015","Municipal",41633,2.15014276596073,"PRI",1,4
-"2050","Chiapas","La Trinitaria","07099","2018","Municipal",42587,2.82296566877724,"PRI",0,4
-"2051","Chiapas","Tumbala","07100","1985","Municipal",7232,1.03202325542849,"PRI",NA,NA
-"2052","Chiapas","Tumbala","07100","1988","Municipal",7684,1.43456439784618,"PRI",0,0
-"2053","Chiapas","Tumbala","07100","1991","Municipal",7180,1,"PRI",0,0
-"2054","Chiapas","Tumbala","07100","1995","Municipal",7714,1.60983052350241,"PRI",0,0
-"2055","Chiapas","Tumbala","07100","1998","Municipal",93859,2.58891917725621,"PAN",1,1
-"2056","Chiapas","Tumbala","07100","2001","Municipal",7791,2.81007488498781,"PRI",1,2
-"2057","Chiapas","Tumbala","07100","2004","Municipal",9940,3.03063294105262,"PRI",0,2
-"2058","Chiapas","Tumbala","07100","2007","Municipal",12037,3.9308038875331,"PAN",1,3
-"2059","Chiapas","Tumbala","07100","2010","Municipal",14251,3.78687714376214,"PVEM",1,4
-"2060","Chiapas","Tumbala","07100","2012","Municipal",34869,2.14924919788462,"PVEM",0,4
-"2061","Chiapas","Tumbala","07100","2015","Municipal",17426,2.07065628639061,"MORENA",1,5
-"2062","Chiapas","Tumbala","07100","2018","Municipal",18434,3.05999865439592,"NVA_ALIANZA",1,6
-"2063","Chiapas","Tuxtla Gutierrez","07101","1985","Municipal",42294,1.11119769057258,"PRI",NA,NA
-"2064","Chiapas","Tuxtla Gutierrez","07101","1988","Municipal",20191,1.811030418346,"PRI",0,0
-"2065","Chiapas","Tuxtla Gutierrez","07101","1991","Municipal",70765,2.39381415611583,"PRI",0,0
-"2066","Chiapas","Tuxtla Gutierrez","07101","1995","Municipal",128210,2.88059158711711,"PRI",0,0
-"2067","Chiapas","Tuxtla Gutierrez","07101","1998","Municipal",9399,3.18945107474625,"PRI",0,0
-"2068","Chiapas","Tuxtla Gutierrez","07101","2001","Municipal",85679,2.75952646758866,"PAN",1,1
-"2069","Chiapas","Tuxtla Gutierrez","07101","2004","Municipal",135947,1.87324533436231,"PRI",1,2
-"2070","Chiapas","Tuxtla Gutierrez","07101","2007","Municipal",118799,2.62824114335932,"PRD_C",1,3
-"2071","Chiapas","Tuxtla Gutierrez","07101","2010","Municipal",97952,2.37797119325599,"PAN_C",1,4
-"2072","Chiapas","Tuxtla Gutierrez","07101","2012","Municipal",14230,3.18640123865227,"PVEM",1,5
-"2073","Chiapas","Tuxtla Gutierrez","07101","2015","Municipal",166891,2.92251355113942,"PRI_C",1,6
-"2074","Chiapas","Tuxtla Gutierrez","07101","2018","Municipal",264127,2.94126878888645,"MORENA_C",1,7
-"2075","Chiapas","Tuxtla Chico","07102","1985","Municipal",3127,1.99041466560844,"PRI",NA,NA
-"2076","Chiapas","Tuxtla Chico","07102","1988","Municipal",3787,1.97465944162678,"PRI",0,0
-"2077","Chiapas","Tuxtla Chico","07102","1991","Municipal",8336,1.89481946111122,"PRI",0,0
-"2078","Chiapas","Tuxtla Chico","07102","1995","Municipal",10556,2.93116243286246,"PRI",0,0
-"2079","Chiapas","Tuxtla Chico","07102","1998","Municipal",6725,3.36056628991523,"PRI",0,0
-"2080","Chiapas","Tuxtla Chico","07102","2001","Municipal",11114,3.62671601097265,"PAS",1,1
-"2081","Chiapas","Tuxtla Chico","07102","2004","Municipal",13162,4.01478470569242,"PAN",1,2
-"2082","Chiapas","Tuxtla Chico","07102","2007","Municipal",14557,3.8918266162395,"PRI",1,3
-"2083","Chiapas","Tuxtla Chico","07102","2010","Municipal",14237,2.81802934991855,"PAN_C",1,4
-"2084","Chiapas","Tuxtla Chico","07102","2012","Municipal",11837,2.94904549119133,"PVEM",1,5
-"2085","Chiapas","Tuxtla Chico","07102","2015","Municipal",19194,5.92065221039212,"PRI",1,6
-"2086","Chiapas","Tuxtla Chico","07102","2018","Municipal",20424,3.36143761504091,"MORENA_C",1,7
-"2087","Chiapas","Tuzantan","07103","1985","Municipal",1868,1.67157715625934,"PRI",NA,NA
-"2088","Chiapas","Tuzantan","07103","1988","Municipal",2384,1.74271998273058,"PRI",0,0
-"2089","Chiapas","Tuzantan","07103","1991","Municipal",5423,1.39318824098723,"PRI",0,0
-"2090","Chiapas","Tuzantan","07103","1995","Municipal",7139,2.81048082759189,"PRI",0,0
-"2091","Chiapas","Tuzantan","07103","1998","Municipal",3141,2.37711181757013,"PRI",0,0
-"2092","Chiapas","Tuzantan","07103","2001","Municipal",8152,3.34116020780857,"PRD",1,1
-"2093","Chiapas","Tuzantan","07103","2004","Municipal",9015,3.06102749171141,"PAN",1,2
-"2094","Chiapas","Tuzantan","07103","2007","Municipal",10324,4.69304432153416,"PAN",0,2
-"2095","Chiapas","Tuzantan","07103","2010","Municipal",10394,3.17174188023282,"PAN_C",1,3
-"2096","Chiapas","Tuzantan","07103","2012","Municipal",180303,3.24532498202038,"PRD_C",1,4
-"2097","Chiapas","Tuzantan","07103","2015","Municipal",12999,4.42656285092641,"PRI",1,5
-"2098","Chiapas","Tuzantan","07103","2018","Municipal",14826,3.24574535315968,"NVA_ALIANZA",1,6
-"2099","Chiapas","Tzimol","07104","1985","Municipal",2234,1,"PRI",NA,NA
-"2100","Chiapas","Tzimol","07104","1988","Municipal",2403,1,"PRI",0,0
-"2101","Chiapas","Tzimol","07104","1991","Municipal",3368,1,"PRI",0,0
-"2102","Chiapas","Tzimol","07104","1995","Municipal",3934,1.55021273082379,"PRI",0,0
-"2103","Chiapas","Tzimol","07104","1998","Municipal",4959,2.39141724367521,"PRD",1,1
-"2104","Chiapas","Tzimol","07104","2001","Municipal",4246,2.37311048487858,"PRI",1,2
-"2105","Chiapas","Tzimol","07104","2004","Municipal",5554,2.15496182446689,"PRI",0,2
-"2106","Chiapas","Tzimol","07104","2007","Municipal",6344,2.00862058107008,"PRD_C",1,3
-"2107","Chiapas","Tzimol","07104","2010","Municipal",7240,2.48707855777005,"PRI",1,4
-"2108","Chiapas","Tzimol","07104","2012","Municipal",7949,2.51675112250612,"PVEM",1,5
-"2109","Chiapas","Tzimol","07104","2015","Municipal",8840,1.10403205553214,"PRI",1,6
-"2110","Chiapas","Tzimol","07104","2018","Municipal",9465,3.00828270587107,"Independiente.1",1,7
-"2111","Chiapas","Union Juarez","07105","1985","Municipal",2916,1,"PRI",NA,NA
-"2112","Chiapas","Union Juarez","07105","1988","Municipal",1511,1,"PRI",0,0
-"2113","Chiapas","Union Juarez","07105","1991","Municipal",3929,1.88126262768441,"PRI",0,0
-"2114","Chiapas","Union Juarez","07105","1995","Municipal",4479,2.10927259527061,"PRI",0,0
-"2115","Chiapas","Union Juarez","07105","1998","Municipal",13100,2.05639506889291,"PRI",0,0
-"2116","Chiapas","Union Juarez","07105","2001","Municipal",5292,3.79050426399648,"PRI",0,0
-"2117","Chiapas","Union Juarez","07105","2004","Municipal",5373,2.64878538194112,"PRD",1,1
-"2118","Chiapas","Union Juarez","07105","2007","Municipal",5199,2.8601021643474,"PAN",1,2
-"2119","Chiapas","Union Juarez","07105","2010","Municipal",6837,3.58700984320172,"PVEM",1,3
-"2120","Chiapas","Union Juarez","07105","2012","Municipal",7265,2.19995304676964,"PRI",1,4
-"2121","Chiapas","Union Juarez","07105","2015","Municipal",7788,3.71390472418598,"PAN",1,5
-"2122","Chiapas","Union Juarez","07105","2018","Municipal",8450,3.24735627961123,"MORENA_C",1,6
-"2123","Chiapas","Venustiano Carranza","07106","1985","Municipal",8294,1,"PRI",NA,NA
-"2124","Chiapas","Venustiano Carranza","07106","1988","Municipal",7140,1,"PRI",0,0
-"2125","Chiapas","Venustiano Carranza","07106","1991","Municipal",13208,1,"PRI",0,0
-"2126","Chiapas","Venustiano Carranza","07106","1995","Municipal",15779,2.82614430011621,"PRI",0,0
-"2127","Chiapas","Venustiano Carranza","07106","1998","Municipal",18066,2.62030451722791,"PRI",0,0
-"2128","Chiapas","Venustiano Carranza","07106","2001","Municipal",15552,3.12075054633637,"PRI",0,0
-"2129","Chiapas","Venustiano Carranza","07106","2004","Municipal",16721,1.97267431209989,"PAN_C",1,1
-"2130","Chiapas","Venustiano Carranza","07106","2007","Municipal",12881,1.8267292058689,"PAN",0,1
-"2131","Chiapas","Venustiano Carranza","07106","2010","Municipal",21261,3.69082975185267,"PAN_C",1,2
-"2132","Chiapas","Venustiano Carranza","07106","2012","Municipal",5103,3.40163248415123,"PRI",1,3
-"2133","Chiapas","Venustiano Carranza","07106","2015","Municipal",24128,3.5425183926352,"PRI",0,3
-"2134","Chiapas","Venustiano Carranza","07106","2018","Municipal",26878,3.01463011150618,"MORENA_C",1,4
-"2135","Chiapas","Villa Corzo","07107","1985","Municipal",11567,1,"PRI",NA,NA
-"2136","Chiapas","Villa Corzo","07107","1988","Municipal",6577,1.23143346326932,"PRI",0,0
-"2137","Chiapas","Villa Corzo","07107","1991","Municipal",15695,1.14756909830822,"PRI",0,0
-"2138","Chiapas","Villa Corzo","07107","1995","Municipal",17841,3.04032387247171,"PRD",1,1
-"2139","Chiapas","Villa Corzo","07107","1998","Municipal",21179,3.26784146804225,"PRI",1,2
-"2140","Chiapas","Villa Corzo","07107","2001","Municipal",21591,3.02655712186151,"PRD",1,3
-"2141","Chiapas","Villa Corzo","07107","2004","Municipal",24838,2.77038501687167,"PRI",1,4
-"2142","Chiapas","Villa Corzo","07107","2007","Municipal",26226,3.51610776949639,"PRI",0,4
-"2143","Chiapas","Villa Corzo","07107","2010","Municipal",29206,3.31423700654717,"PAN_C",1,5
-"2144","Chiapas","Villa Corzo","07107","2012","Municipal",18730,2.65803924715822,"PVEM",1,6
-"2145","Chiapas","Villa Corzo","07107","2015","Municipal",28858,4.40603728005021,"PRI",1,7
-"2146","Chiapas","Villa Corzo","07107","2018","Municipal",30448,3.11588873896625,"MORENA_C",1,8
-"2147","Chiapas","Villaflores","07108","1985","Municipal",15061,1,"PRI",NA,NA
-"2148","Chiapas","Villaflores","07108","1988","Municipal",8287,1.20578270783026,"PRI",0,0
-"2149","Chiapas","Villaflores","07108","1991","Municipal",17913,1.44879216324819,"PRI",0,0
-"2150","Chiapas","Villaflores","07108","1995","Municipal",23909,2.79627980414931,"PRI",0,0
-"2151","Chiapas","Villaflores","07108","1998","Municipal",6012,2.80959632445094,"PRI",0,0
-"2152","Chiapas","Villaflores","07108","2001","Municipal",27167,4.46420251917727,"PRI",0,0
-"2153","Chiapas","Villaflores","07108","2004","Municipal",31648,1.99320139081969,"PAN_C",1,1
-"2154","Chiapas","Villaflores","07108","2007","Municipal",34270,2.90520199872868,"PRI",1,2
-"2155","Chiapas","Villaflores","07108","2010","Municipal",30155,2.56880147622473,"PRI",0,2
-"2156","Chiapas","Villaflores","07108","2012","Municipal",9840,3.68805727189673,"PVEM",1,3
-"2157","Chiapas","Villaflores","07108","2015","Municipal",44545,4.03392247864851,"PRI",1,4
-"2158","Chiapas","Villaflores","07108","2018","Municipal",47356,3.17719593906772,"PVEM",1,5
-"2159","Chiapas","Yajalon","07109","1985","Municipal",2607,1.85789491668592,"PRI",NA,NA
-"2160","Chiapas","Yajalon","07109","1988","Municipal",3622,1.7346958906689,"PRI",0,0
-"2161","Chiapas","Yajalon","07109","1991","Municipal",5014,1,"PRI",0,0
-"2162","Chiapas","Yajalon","07109","1995","Municipal",9256,2.30823913219878,"PRI",0,0
-"2163","Chiapas","Yajalon","07109","1998","Municipal",1839,2.94754825304672,"PRI",0,0
-"2164","Chiapas","Yajalon","07109","2001","Municipal",8345,3.7948265193505,"PRI",0,0
-"2165","Chiapas","Yajalon","07109","2004","Municipal",9563,2.05467063746086,"PAN_C",1,1
-"2166","Chiapas","Yajalon","07109","2007","Municipal",11063,2.48416940823858,"PRD",1,2
-"2167","Chiapas","Yajalon","07109","2010","Municipal",12351,3.0002786562199,"PVEM",1,3
-"2168","Chiapas","Yajalon","07109","2012","Municipal",18826,2.98940544798411,"PVEM",0,3
-"2169","Chiapas","Yajalon","07109","2015","Municipal",17671,2.49813698864006,"PRI",1,4
-"2170","Chiapas","Yajalon","07109","2018","Municipal",18098,2.72730313643276,"PVEM",1,5
-"2171","Chiapas","San Lucas","07110","1985","Municipal",1187,1,"PRI",NA,NA
-"2172","Chiapas","San Lucas","07110","1988","Municipal",491,1,"PRI",0,0
-"2173","Chiapas","San Lucas","07110","1991","Municipal",1403,1,"PRI",0,0
-"2174","Chiapas","San Lucas","07110","1995","Municipal",1496,1.11603803403747,"PRI",0,0
-"2175","Chiapas","San Lucas","07110","1998","Municipal",6179,2.06723023459285,"PRI",0,0
-"2176","Chiapas","San Lucas","07110","2001","Municipal",2267,3.11905592136241,"PRD",1,1
-"2177","Chiapas","San Lucas","07110","2004","Municipal",2461,2.98743224742815,"PAN",1,2
-"2178","Chiapas","San Lucas","07110","2007","Municipal",2793,3.31467525389168,"PRI_C",1,3
-"2179","Chiapas","San Lucas","07110","2010","Municipal",3093,2.12805691323216,"PAN_C",1,4
-"2180","Chiapas","San Lucas","07110","2012","Municipal",27901,2.88656193901676,"PVEM",1,5
-"2181","Chiapas","San Lucas","07110","2015","Municipal",3704,2.25022406249885,"PRI",1,6
-"2182","Chiapas","San Lucas","07110","2018","Municipal",3623,3.02630442992603,"PAN_C",1,7
-"2183","Chiapas","Zinacantan","07111","1985","Municipal",5644,1.0944257997895,"PRI",NA,NA
-"2184","Chiapas","Zinacantan","07111","1988","Municipal",9178,1,"PRI",0,0
-"2185","Chiapas","Zinacantan","07111","1991","Municipal",9409,1.06106017635987,"PRI",0,0
-"2186","Chiapas","Zinacantan","07111","1995","Municipal",7012,2.77670953467398,"PRD",1,1
-"2187","Chiapas","Zinacantan","07111","1998","Municipal",5142,2.03710057169991,"PRI",1,2
-"2188","Chiapas","Zinacantan","07111","2001","Municipal",11053,2.31565486805166,"PRD",1,3
-"2189","Chiapas","Zinacantan","07111","2004","Municipal",12840,1.98653355376648,"PAN_C",1,4
-"2190","Chiapas","Zinacantan","07111","2007","Municipal",7001,1.18665052713322,"PRI",1,5
-"2191","Chiapas","Zinacantan","07111","2010","Municipal",16724,2.06299292899633,"PRI",0,5
-"2192","Chiapas","Zinacantan","07111","2012","Municipal",11685,3.61666351956021,"PVEM",1,6
-"2193","Chiapas","El Parral","07111","2015","Municipal",7636,4.48070254553748,"PT",1,7
-"2194","Chiapas","Emiliano Zapata","07111","2015","Municipal",5695,3.00372482631434,"PRI",1,8
-"2195","Chiapas","Metapa De Dominguez","07111","2015","Municipal",3326,3.06197770818059,"PRI",0,8
-"2196","Chiapas","Mezcalapa","07111","2015","Municipal",10371,2.83173553831504,"PRI",0,8
-"2197","Chiapas","Villa Comaltitlan","07111","2015","Municipal",13998,3.23923357413575,"PT",1,9
-"2198","Chiapas","Zinacantan","07111","2015","Municipal",23369,1.04455016892142,"PRI",1,10
-"2199","Chiapas","El Parral","07111","2018","Municipal",8132,3.12285719536528,"MORENA_C",1,11
-"2200","Chiapas","Emiliano Zapata","07111","2018","Municipal",5976,3.32002082402023,"PVEM",1,12
-"2201","Chiapas","Mezcalapa","07111","2018","Municipal",11082,3.24315659119939,"PRI",1,13
-"2202","Chiapas","Villa Comaltitlan","07111","2018","Municipal",14152,2.90020327476734,"PVEM",1,14
-"2203","Chiapas","Zinacantan","07111","2018","Municipal",26289,2.35323043867666,"PRI",1,15
-"2204","Chiapas","San Juan Cancuc","07112","1991","Municipal",4506,1,"PRI",NA,NA
-"2205","Chiapas","San Juan Cancuc","07112","1995","Municipal",6106,2.28898342227609,"PRI",0,0
-"2206","Chiapas","San Juan Cancuc","07112","2001","Municipal",7106,2.23841822073044,"PRI",0,0
-"2207","Chiapas","San Juan Cancuc","07112","2004","Municipal",8775,2.03983603880182,"PRI",0,0
-"2208","Chiapas","San Juan Cancuc","07112","2007","Municipal",11007,2.42834886878867,"PRD",1,1
-"2209","Chiapas","San Juan Cancuc","07112","2010","Municipal",12798,2.16397966036822,"PRI",1,2
-"2210","Chiapas","San Juan Cancuc","07112","2012","Municipal",18808,2.01701234636499,"PRI",0,2
-"2211","Chiapas","San Juan Cancuc","07112","2015","Municipal",16169,1.20399343518308,"PRI",0,2
-"2212","Chiapas","San Juan Cancuc","07112","2018","Municipal",17848,2.96313127462007,"PRI",0,2
-"2213","Chiapas","Aldama","07113","2001","Municipal",1349,1.15189145131131,"PRI",NA,NA
-"2214","Chiapas","Aldama","07113","2004","Municipal",1248,1.18609964166833,"PRI",0,0
-"2215","Chiapas","Aldama","07113","2007","Municipal",1515,1.47196196013845,"PRI",0,0
-"2216","Chiapas","Aldama","07113","2010","Municipal",1764,1.62890428617669,"PRI",0,0
-"2217","Chiapas","Aldama","07113","2012","Municipal",1614,1.26946888559563,"PRI",0,0
-"2218","Chiapas","Aldama","07113","2015","Municipal",2554,1.09857243215025,"PRI",0,0
-"2219","Chiapas","Aldama","07113","2018","Municipal",2785,2.71203979063997,"PRI",0,0
-"2220","Chiapas","Benemerito De Las Americas","07114","2001","Municipal",3421,2.89601782640655,"PRI",NA,NA
-"2221","Chiapas","Benemerito De Las Americas","07114","2004","Municipal",4229,3.37312147507588,"PT",1,1
-"2222","Chiapas","Benemerito De Las Americas","07114","2007","Municipal",5552,4.43825098772107,"PRD",1,2
-"2223","Chiapas","Benemerito De Las Americas","07114","2010","Municipal",6388,2.93414848095833,"PRI",1,3
-"2224","Chiapas","Benemerito De Las Americas","07114","2012","Municipal",6204,3.21107403614259,"PVEM",1,4
-"2225","Chiapas","Benemerito De Las Americas","07114","2015","Municipal",7998,3.18542046298386,"PRI",1,5
-"2226","Chiapas","Benemerito De Las Americas","07114","2018","Municipal",9268,2.85951525532578,"NVA_ALIANZA",1,6
-"2227","Chiapas","Maravilla Tenejapa","07115","2001","Municipal",2147,3.60366023991413,"PRI",NA,NA
-"2228","Chiapas","Maravilla Tenejapa","07115","2004","Municipal",2960,3.20607713409454,"PRI",0,0
-"2229","Chiapas","Maravilla Tenejapa","07115","2007","Municipal",2057,1.84964133846128,"PRI",0,0
-"2230","Chiapas","Maravilla Tenejapa","07115","2010","Municipal",4296,2.14916225564733,"PRI",0,0
-"2231","Chiapas","Maravilla Tenejapa","07115","2012","Municipal",4942,3.35444299468472,"PRI",0,0
-"2232","Chiapas","Maravilla Tenejapa","07115","2015","Municipal",5655,2.08243672227508,"PRD",1,1
-"2233","Chiapas","Maravilla Tenejapa","07115","2018","Municipal",6210,3.15095019338344,"PRD",0,1
-"2234","Chiapas","Marques De Comillas","07116","2001","Municipal",2464,2.87924479641429,"PRD",NA,NA
-"2235","Chiapas","Marques De Comillas","07116","2004","Municipal",3208,2.82233934513867,"PRI",1,1
-"2236","Chiapas","Marques De Comillas","07116","2007","Municipal",2622,1.99979562988015,"PRI_C",1,2
-"2237","Chiapas","Marques De Comillas","07116","2010","Municipal",4106,3.41267036595613,"PVEM",1,3
-"2238","Chiapas","Marques De Comillas","07116","2012","Municipal",3236,2.86928235076041,"PVEM",0,3
-"2239","Chiapas","Marques De Comillas","07116","2015","Municipal",5460,2.36571220700922,"PAN",1,4
-"2240","Chiapas","Marques De Comillas","07116","2018","Municipal",5744,2.90945361055099,"MORENA_C",1,5
-"2241","Chiapas","Montecristo De Guerrero","07117","2001","Municipal",2117,3.13427504609757,"PAN",NA,NA
-"2242","Chiapas","Montecristo De Guerrero","07117","2004","Municipal",2409,2.08278025036919,"PRI",1,1
-"2243","Chiapas","Montecristo De Guerrero","07117","2007","Municipal",2825,2.29709446083797,"PRI",0,1
-"2244","Chiapas","Montecristo De Guerrero","07117","2010","Municipal",3259,2.77890801750714,"PAN_C",1,2
-"2245","Chiapas","Montecristo De Guerrero","07117","2012","Municipal",2232,1.68373807112912,"PVEM",1,3
-"2246","Chiapas","Montecristo De Guerrero","07117","2015","Municipal",4228,3.36842715431305,"PANAL",1,4
-"2247","Chiapas","Montecristo De Guerrero","07117","2018","Municipal",4281,2.90740198313591,"MORENA",1,5
-"2248","Chiapas","San Andres Duraznal","07118","2001","Municipal",1664,2.53605422172667,"PT",NA,NA
-"2249","Chiapas","San Andres Duraznal","07118","2004","Municipal",1771,3.73017644416608,"PT",0,0
-"2250","Chiapas","San Andres Duraznal","07118","2007","Municipal",1890,3.21168069370059,"PAN",1,1
-"2251","Chiapas","San Andres Duraznal","07118","2010","Municipal",2257,3.01317760968532,"PRI",1,2
-"2252","Chiapas","San Andres Duraznal","07118","2012","Municipal",1412,2.83666540039284,"PVEM",1,3
-"2253","Chiapas","San Andres Duraznal","07118","2015","Municipal",2066,2.86276837009973,"PRI",1,4
-"2254","Chiapas","San Andres Duraznal","07118","2018","Municipal",2905,2.73690053984335,"MORENA",1,5
-"2255","Chiapas","Santiago El Pinar","07119","2001","Municipal",932,1.92000365280124,"PRI",NA,NA
-"2256","Chiapas","Santiago El Pinar","07119","2004","Municipal",1015,2.90841368714824,"PRI",0,0
-"2257","Chiapas","Santiago El Pinar","07119","2007","Municipal",643,1,"PRI",0,0
-"2258","Chiapas","Santiago El Pinar","07119","2010","Municipal",1470,1.96611261534213,"PAN_C",1,1
-"2259","Chiapas","Santiago El Pinar","07119","2012","Municipal",1591,1.96403141170327,"PVEM",1,2
-"2260","Chiapas","Santiago El Pinar","07119","2018","Municipal",2132,2.64764343123465,"PT",1,3
+"1526","Chiapas","Metapa De Dominguez","07055","1985","Municipal",1333,1.83402814691721,"PRI",NA,NA
+"1527","Chiapas","Metapa De Dominguez","07055","1988","Municipal",1711,1,"PRI",0,0
+"1528","Chiapas","Metapa De Dominguez","07055","1991","Municipal",1831,1,"PRI",0,0
+"1529","Chiapas","Metapa De Dominguez","07055","1995","Municipal",1500,2.31758325748231,"PRD",1,1
+"1530","Chiapas","Metapa De Dominguez","07055","1998","Municipal",1514,1.53092668954789,"PRI",1,2
+"1531","Chiapas","Metapa De Dominguez","07055","2001","Municipal",2213,3.62914729996527,"PAN",1,3
+"1532","Chiapas","Metapa De Dominguez","07055","2004","Municipal",2288,4.30540152628999,"PRI",1,4
+"1533","Chiapas","Metapa De Dominguez","07055","2007","Municipal",2839,4.29405766365358,"PVEM",1,5
+"1534","Chiapas","Metapa De Dominguez","07055","2010","Municipal",2862,2.61697047841185,"PAN_C",1,6
+"1535","Chiapas","Metapa De Dominguez","07055","2012","Municipal",2628,3.55257491231981,"PRI",1,7
+"1536","Chiapas","Metapa De Dominguez","07055","2015","Municipal",3326,3.06197770818059,"PRI",0,7
+"1537","Chiapas","Metapa De Dominguez","07055","2018","Municipal",3355,3.15772476178107,"NVA_ALIANZA",1,8
+"1538","Chiapas","Mitontic","07056","1985","Municipal",3491,1,"PRI",NA,NA
+"1539","Chiapas","Mitontic","07056","1988","Municipal",3197,1,"PRI",0,0
+"1540","Chiapas","Mitontic","07056","1991","Municipal",237,1,"PRI",0,0
+"1541","Chiapas","Mitontic","07056","1995","Municipal",1831,1.10880508829984,"PRI",0,0
+"1542","Chiapas","Mitontic","07056","1998","Municipal",12067,2.13852090708666,"PRI",0,0
+"1543","Chiapas","Mitontic","07056","2001","Municipal",1857,1.80489555943298,"PRI",0,0
+"1544","Chiapas","Mitontic","07056","2004","Municipal",1574,1.42286430794159,"PRI",0,0
+"1545","Chiapas","Mitontic","07056","2007","Municipal",2537,1.78289331181713,"PRI",0,0
+"1546","Chiapas","Mitontic","07056","2010","Municipal",3267,1.9995053342072,"PRI",0,0
+"1547","Chiapas","Mitontic","07056","2012","Municipal",3332,1.62442066650655,"PRI",0,0
+"1548","Chiapas","Mitontic","07056","2015","Municipal",4696,2.06328081983242,"PRI",0,0
+"1549","Chiapas","Mitontic","07056","2018","Municipal",5534,2.88088488078618,"PVEM",1,1
+"1550","Chiapas","Motozintla","07057","1985","Municipal",7165,1.0061598183703,"PRI",NA,NA
+"1551","Chiapas","Motozintla","07057","1988","Municipal",4305,1.94748870131272,"PRI",0,0
+"1552","Chiapas","Motozintla","07057","1991","Municipal",9967,1.65294948830426,"PRI",0,0
+"1553","Chiapas","Motozintla","07057","1995","Municipal",13701,2.25858942337121,"PRI",0,0
+"1554","Chiapas","Motozintla","07057","1998","Municipal",1422,1.56414289826712,"PRD",1,1
+"1555","Chiapas","Motozintla","07057","2001","Municipal",14821,3.01629055336931,"PRI",1,2
+"1556","Chiapas","Motozintla","07057","2004","Municipal",17049,2.91664282594917,"PAN_C",1,3
+"1557","Chiapas","Motozintla","07057","2007","Municipal",18798,6.12019179930786,"PRI",1,4
+"1558","Chiapas","Motozintla","07057","2010","Municipal",19842,3.10985550182656,"PRI",0,4
+"1559","Chiapas","Motozintla","07057","2012","Municipal",22123,2.9042742623461,"PRD_C",1,5
+"1560","Chiapas","Motozintla","07057","2015","Municipal",28165,3.06691079569578,"PRI",1,6
+"1561","Chiapas","Motozintla","07057","2018","Municipal",30893,3.32330587771651,"PRI",0,6
+"1562","Chiapas","Nicolas Ruiz","07058","1985","Municipal",1357,1,"PRI",NA,NA
+"1563","Chiapas","Nicolas Ruiz","07058","1988","Municipal",1082,1,"PRI",0,0
+"1564","Chiapas","Nicolas Ruiz","07058","1991","Municipal",1155,1,"PRI",0,0
+"1565","Chiapas","Nicolas Ruiz","07058","1995","Municipal",1139,1,"PRD",1,1
+"1566","Chiapas","Nicolas Ruiz","07058","1998","Municipal",19146,2.3413256145599,"PRI",1,2
+"1567","Chiapas","Nicolas Ruiz","07058","2001","Municipal",1520,1.43356223752515,"PRD",1,3
+"1568","Chiapas","Nicolas Ruiz","07058","2004","Municipal",1100,1.00184331640654,"PRD",0,3
+"1569","Chiapas","Nicolas Ruiz","07058","2007","Municipal",1076,1,"PRD",0,3
+"1570","Chiapas","Nicolas Ruiz","07058","2010","Municipal",1339,1.06014973321874,"PAN_C",1,4
+"1571","Chiapas","Nicolas Ruiz","07058","2012","Municipal",1163,1,"PRD_C",1,5
+"1572","Chiapas","Nicolas Ruiz","07058","2018","Municipal",1813,2,"MORENA_C",1,6
+"1573","Chiapas","Ocosingo","07059","1985","Municipal",24171,1.04576526245484,"PRI",NA,NA
+"1574","Chiapas","Ocosingo","07059","1988","Municipal",11512,1.41413145665348,"PRI",0,0
+"1575","Chiapas","Ocosingo","07059","1991","Municipal",19559,1.37951385448233,"PRI",0,0
+"1576","Chiapas","Ocosingo","07059","1995","Municipal",40212,2.20853227715312,"PRD",1,1
+"1577","Chiapas","Ocosingo","07059","1998","Municipal",3217,2.44043451424962,"PRD",0,1
+"1578","Chiapas","Ocosingo","07059","2001","Municipal",24851,4.0532696810903,"PRI",1,2
+"1579","Chiapas","Ocosingo","07059","2004","Municipal",34472,3.24230686904371,"PRI",0,2
+"1580","Chiapas","Ocosingo","07059","2007","Municipal",42003,3.26270168586216,"PAN",1,3
+"1581","Chiapas","Ocosingo","07059","2010","Municipal",52093,3.30403125002118,"PAN_C",1,4
+"1582","Chiapas","Ocosingo","07059","2012","Municipal",48823,4.20409885816206,"PVEM",1,5
+"1583","Chiapas","Ocosingo","07059","2015","Municipal",64296,4.18670478317167,"MC",1,6
+"1584","Chiapas","Ocosingo","07059","2018","Municipal",86488,3.20302451920844,"MORENA_C",1,7
+"1585","Chiapas","Ocotepec","07060","1985","Municipal",2371,1.03605525612306,"PRI",NA,NA
+"1586","Chiapas","Ocotepec","07060","1988","Municipal",2285,1.00175207925108,"PRI",0,0
+"1587","Chiapas","Ocotepec","07060","1991","Municipal",1110,1,"PRI",0,0
+"1588","Chiapas","Ocotepec","07060","1995","Municipal",2428,2.05134401940868,"PRI",0,0
+"1589","Chiapas","Ocotepec","07060","1998","Municipal",15522,3.56548115232429,"PAN",1,1
+"1590","Chiapas","Ocotepec","07060","2001","Municipal",3709,2.22300231927443,"PRI",1,2
+"1591","Chiapas","Ocotepec","07060","2004","Municipal",4291,2.01928490896685,"PAN_C",1,3
+"1592","Chiapas","Ocotepec","07060","2007","Municipal",4008,2.0789986434893,"PRD_C",1,4
+"1593","Chiapas","Ocotepec","07060","2010","Municipal",4708,2.01720250752719,"PAN_C",1,5
+"1594","Chiapas","Ocotepec","07060","2012","Municipal",5087,1.97516485360081,"PRI",1,6
+"1595","Chiapas","Ocotepec","07060","2015","Municipal",5985,1.35977855983254,"PRI",0,6
+"1596","Chiapas","Ocotepec","07060","2018","Municipal",6546,2.9599836522328,"MORENA_C",1,7
+"1597","Chiapas","Ocozocoautla De Espinosa","07061","1985","Municipal",4737,1,"PRI",NA,NA
+"1598","Chiapas","Ocozocoautla De Espinosa","07061","1988","Municipal",3836,1.61137111513364,"PRI",0,0
+"1599","Chiapas","Ocozocoautla De Espinosa","07061","1991","Municipal",8154,1.73856001807391,"PRI",0,0
+"1600","Chiapas","Ocozocoautla De Espinosa","07061","1995","Municipal",14870,2.55931906491064,"PRI",0,0
+"1601","Chiapas","Ocozocoautla De Espinosa","07061","1998","Municipal",4512,2.12468159556045,"PRI",0,0
+"1602","Chiapas","Ocozocoautla De Espinosa","07061","2001","Municipal",20441,4.73780601899942,"PRD",1,1
+"1603","Chiapas","Ocozocoautla De Espinosa","07061","2004","Municipal",22858,3.86585254743114,"PRI",1,2
+"1604","Chiapas","Ocozocoautla De Espinosa","07061","2007","Municipal",28039,4.33487075601363,"PAN",1,3
+"1605","Chiapas","Ocozocoautla De Espinosa","07061","2010","Municipal",24212,3.81200031326487,"PRI",1,4
+"1606","Chiapas","Ocozocoautla De Espinosa","07061","2012","Municipal",23508,3.80089656597444,"PVEM",1,5
+"1607","Chiapas","Ocozocoautla De Espinosa","07061","2015","Municipal",38885,5.80235657807832,"MC",1,6
+"1608","Chiapas","Ocozocoautla De Espinosa","07061","2018","Municipal",40518,2.93920725633539,"PRD",1,7
+"1609","Chiapas","Ostuacan","07062","1985","Municipal",2491,1.11156251763384,"PRI",NA,NA
+"1610","Chiapas","Ostuacan","07062","1988","Municipal",2293,1,"PRI",0,0
+"1611","Chiapas","Ostuacan","07062","1991","Municipal",3756,1.28885168746639,"PRI",0,0
+"1612","Chiapas","Ostuacan","07062","1995","Municipal",5007,1.98299329846325,"PRI",0,0
+"1613","Chiapas","Ostuacan","07062","1998","Municipal",1211,2.63760391188765,"PRI",0,0
+"1614","Chiapas","Ostuacan","07062","2001","Municipal",6246,3.17814481087717,"PRI",0,0
+"1615","Chiapas","Ostuacan","07062","2004","Municipal",6857,1.94137005149012,"PAN_C",1,1
+"1616","Chiapas","Ostuacan","07062","2007","Municipal",6775,2.83017307828184,"PRI",1,2
+"1617","Chiapas","Ostuacan","07062","2010","Municipal",7266,2.22666148299141,"PAN_C",1,3
+"1618","Chiapas","Ostuacan","07062","2012","Municipal",7655,3.49423444372568,"PANAL",1,4
+"1619","Chiapas","Ostuacan","07062","2015","Municipal",9734,2.94452010263268,"PRI",1,5
+"1620","Chiapas","Ostuacan","07062","2018","Municipal",10221,3.09325107863707,"PVEM",1,6
+"1621","Chiapas","Osumacinta","07063","1985","Municipal",638,1.56978017740069,"PRI",NA,NA
+"1622","Chiapas","Osumacinta","07063","1988","Municipal",587,1.20860268610333,"PRI",0,0
+"1623","Chiapas","Osumacinta","07063","1991","Municipal",882,1.81211768268536,"PRI",0,0
+"1624","Chiapas","Osumacinta","07063","1995","Municipal",797,1.9636711569177,"PRI",0,0
+"1625","Chiapas","Osumacinta","07063","1998","Municipal",8730,2.00096593786951,"PRI",0,0
+"1626","Chiapas","Osumacinta","07063","2001","Municipal",1465,2.18117727988032,"PRI",0,0
+"1627","Chiapas","Osumacinta","07063","2004","Municipal",1658,2.28836755821905,"PRI",0,0
+"1628","Chiapas","Osumacinta","07063","2007","Municipal",1602,1.99312080390115,"PAN",1,1
+"1629","Chiapas","Osumacinta","07063","2010","Municipal",1970,1.99518411258809,"PAN_C",1,2
+"1630","Chiapas","Osumacinta","07063","2012","Municipal",1271,2.09869215069563,"PRI",1,3
+"1631","Chiapas","Osumacinta","07063","2015","Municipal",2222,3.01552533918744,"PAN",1,4
+"1632","Chiapas","Osumacinta","07063","2018","Municipal",2527,2.9195328232377,"PAN_C",1,5
+"1633","Chiapas","Oxchuc","07064","1985","Municipal",10355,1,"PRI",NA,NA
+"1634","Chiapas","Oxchuc","07064","1988","Municipal",8480,1,"PRI",0,0
+"1635","Chiapas","Oxchuc","07064","1991","Municipal",11073,1,"PRI",0,0
+"1636","Chiapas","Oxchuc","07064","1995","Municipal",11699,1.99583811470233,"PRI",0,0
+"1637","Chiapas","Oxchuc","07064","1998","Municipal",14714,2.38745745535663,"PRI",0,0
+"1638","Chiapas","Oxchuc","07064","2001","Municipal",11648,2.13738495533848,"PRI",0,0
+"1639","Chiapas","Oxchuc","07064","2004","Municipal",13760,2.21535666125429,"PRI",0,0
+"1640","Chiapas","Oxchuc","07064","2007","Municipal",16061,3.22492805104703,"PRI",0,0
+"1641","Chiapas","Oxchuc","07064","2010","Municipal",15439,3.1422058462468,"PAN_C",1,1
+"1642","Chiapas","Oxchuc","07064","2012","Municipal",19467,3.85230263020877,"PRI",1,2
+"1643","Chiapas","Oxchuc","07064","2015","Municipal",24419,2.73916409381843,"PANAL",1,3
+"1644","Chiapas","Palenque","07065","1985","Municipal",9734,1,"PRI",NA,NA
+"1645","Chiapas","Palenque","07065","1988","Municipal",5032,1.75548424516606,"PRI",0,0
+"1646","Chiapas","Palenque","07065","1991","Municipal",13712,1.64993595997617,"PRI",0,0
+"1647","Chiapas","Palenque","07065","1995","Municipal",24228,2.16997377046004,"PRI",0,0
+"1648","Chiapas","Palenque","07065","1998","Municipal",3404,1.91984163282127,"PRI",0,0
+"1649","Chiapas","Palenque","07065","2001","Municipal",17753,2.51554867958987,"PRI",0,0
+"1650","Chiapas","Palenque","07065","2004","Municipal",23593,2.45998560636424,"PRD",1,1
+"1651","Chiapas","Palenque","07065","2007","Municipal",31571,3.44833429183964,"MC",1,2
+"1652","Chiapas","Palenque","07065","2010","Municipal",33510,2.72064673064461,"PT",1,3
+"1653","Chiapas","Palenque","07065","2012","Municipal",30219,3.46149869042994,"PRD_C",1,4
+"1654","Chiapas","Palenque","07065","2015","Municipal",45055,4.61196525234848,"PT_C",1,5
+"1655","Chiapas","Palenque","07065","2018","Municipal",55198,3.35402414433793,"PVEM",1,6
+"1656","Chiapas","Pantelho","07066","1985","Municipal",4469,1.07176641800228,"PRI",NA,NA
+"1657","Chiapas","Pantelho","07066","1988","Municipal",4463,1,"PRI",0,0
+"1658","Chiapas","Pantelho","07066","1991","Municipal",3122,1,"PRI",0,0
+"1659","Chiapas","Pantelho","07066","1995","Municipal",4199,2.41307155757467,"PRD",1,1
+"1660","Chiapas","Pantelho","07066","1998","Municipal",3011,1.81172562811505,"PRI",1,2
+"1661","Chiapas","Pantelho","07066","2001","Municipal",4474,3.94080541112761,"PRI",0,2
+"1662","Chiapas","Pantelho","07066","2004","Municipal",5079,3.73469404425075,"PRD",1,3
+"1663","Chiapas","Pantelho","07066","2007","Municipal",7326,2.97577843596933,"PRD",0,3
+"1664","Chiapas","Pantelho","07066","2010","Municipal",7898,2.68325698071293,"PAN_C",1,4
+"1665","Chiapas","Pantelho","07066","2012","Municipal",7859,2.69868641305733,"PRD_C",1,5
+"1666","Chiapas","Pantelho","07066","2015","Municipal",9499,2.58828898138155,"PRD",0,5
+"1667","Chiapas","Pantelho","07066","2018","Municipal",10181,2.98313321997033,"PRD",0,5
+"1668","Chiapas","Pantepec","07067","1985","Municipal",1193,1,"PRI",NA,NA
+"1669","Chiapas","Pantepec","07067","1988","Municipal",1270,1,"PRI",0,0
+"1670","Chiapas","Pantepec","07067","1991","Municipal",2480,1,"PRI",0,0
+"1671","Chiapas","Pantepec","07067","1995","Municipal",2619,1.23581779425726,"PRI",0,0
+"1672","Chiapas","Pantepec","07067","1998","Municipal",8200,3.21414064960657,"PRI",0,0
+"1673","Chiapas","Pantepec","07067","2001","Municipal",3756,2.2868405522898,"PRI",0,0
+"1674","Chiapas","Pantepec","07067","2004","Municipal",4354,2.80641546513168,"PRD",1,1
+"1675","Chiapas","Pantepec","07067","2007","Municipal",4948,3.80775082129752,"PRI",1,2
+"1676","Chiapas","Pantepec","07067","2010","Municipal",5090,3.94562016539783,"PRI",0,2
+"1677","Chiapas","Pantepec","07067","2012","Municipal",3552,3.12823621342055,"PRI",0,2
+"1678","Chiapas","Pantepec","07067","2015","Municipal",6273,2.77159573854914,"PAN",1,3
+"1679","Chiapas","Pantepec","07067","2018","Municipal",6386,2.93388910003261,"PVEM",1,4
+"1680","Chiapas","Pichucalco","07068","1985","Municipal",7045,1,"PRI",NA,NA
+"1681","Chiapas","Pichucalco","07068","1988","Municipal",6343,1,"PRI",0,0
+"1682","Chiapas","Pichucalco","07068","1991","Municipal",4935,1.23088087529307,"PRI",0,0
+"1683","Chiapas","Pichucalco","07068","1995","Municipal",10332,2.2311629606056,"PRI",0,0
+"1684","Chiapas","Pichucalco","07068","1998","Municipal",14583,2.19060305982969,"PRI",0,0
+"1685","Chiapas","Pichucalco","07068","2001","Municipal",9825,3.99769376529903,"PRD",1,1
+"1686","Chiapas","Pichucalco","07068","2004","Municipal",11668,2.81531332208439,"PAN_C",1,2
+"1687","Chiapas","Pichucalco","07068","2007","Municipal",12447,4.18829874909289,"PAN",0,2
+"1688","Chiapas","Pichucalco","07068","2010","Municipal",12894,2.05091272593606,"PRI",1,3
+"1689","Chiapas","Pichucalco","07068","2012","Municipal",10533,2.96465543293825,"PVEM",1,4
+"1690","Chiapas","Pichucalco","07068","2015","Municipal",14525,4.00772409098478,"PRD",1,5
+"1691","Chiapas","Pichucalco","07068","2018","Municipal",16089,3.25313938606848,"PVEM",1,6
+"1692","Chiapas","Pijijiapan","07069","1985","Municipal",4396,1.13133942496382,"PRI",NA,NA
+"1693","Chiapas","Pijijiapan","07069","1988","Municipal",3143,1.60183211558223,"PRI",0,0
+"1694","Chiapas","Pijijiapan","07069","1991","Municipal",9241,1.84301677707829,"PRI",0,0
+"1695","Chiapas","Pijijiapan","07069","1995","Municipal",11483,2.37599006957749,"PRI",0,0
+"1696","Chiapas","Pijijiapan","07069","1998","Municipal",3249,1.93929325749437,"PRI",0,0
+"1697","Chiapas","Pijijiapan","07069","2001","Municipal",15718,3.57940097949239,"PRI",0,0
+"1698","Chiapas","Pijijiapan","07069","2004","Municipal",17035,2.70723125245303,"PRD",1,1
+"1699","Chiapas","Pijijiapan","07069","2007","Municipal",13407,2.01690325273087,"PRI",1,2
+"1700","Chiapas","Pijijiapan","07069","2010","Municipal",17921,2.26953450289183,"PAN_C",1,3
+"1701","Chiapas","Pijijiapan","07069","2012","Municipal",19171,2.89064475346666,"PVEM",1,4
+"1702","Chiapas","Pijijiapan","07069","2015","Municipal",23746,5.25238659597804,"PRI",1,5
+"1703","Chiapas","Pijijiapan","07069","2018","Municipal",24708,3.09201477515176,"MORENA_C",1,6
+"1704","Chiapas","El Porvenir","07070","1985","Municipal",3378,1,"PRI",NA,NA
+"1705","Chiapas","El Porvenir","07070","1988","Municipal",2463,1.01802393536461,"PRI",0,0
+"1706","Chiapas","El Porvenir","07070","1991","Municipal",3305,1.39946829807338,"PRI",0,0
+"1707","Chiapas","El Porvenir","07070","1995","Municipal",3221,1.79758781668157,"PRI",0,0
+"1708","Chiapas","El Porvenir","07070","1998","Municipal",8017,2.2142355814756,"PRD",1,1
+"1709","Chiapas","El Porvenir","07070","2001","Municipal",3746,2.38367100432471,"PRI",1,2
+"1710","Chiapas","El Porvenir","07070","2004","Municipal",4068,1.99201403630203,"PRI",0,2
+"1711","Chiapas","El Porvenir","07070","2007","Municipal",4959,4.02101037311402,"PRI",0,2
+"1712","Chiapas","El Porvenir","07070","2010","Municipal",5333,3.73826527594298,"PT",1,3
+"1713","Chiapas","El Porvenir","07070","2012","Municipal",5549,2.64609507107334,"PRD_C",1,4
+"1714","Chiapas","El Porvenir","07070","2015","Municipal",6439,3.30738793549746,"PRI",1,5
+"1715","Chiapas","El Porvenir","07070","2018","Municipal",6419,3.06327851619942,"MORENA",1,6
+"1716","Chiapas","Villa Comaltitlan","07071","1985","Municipal",3752,1.78974452206747,"PRI",NA,NA
+"1717","Chiapas","Villa Comaltitlan","07071","1988","Municipal",3965,1.68659996676412,"PRI",0,0
+"1718","Chiapas","Villa Comaltitlan","07071","1991","Municipal",5445,1.6821443714168,"PRI",0,0
+"1719","Chiapas","Villa Comaltitlan","07071","1995","Municipal",7579,2.56296860840867,"PRI",0,0
+"1720","Chiapas","Villa Comaltitlan","07071","1998","Municipal",6609,3.76952670947243,"PRD",1,1
+"1721","Chiapas","Villa Comaltitlan","07071","2001","Municipal",8665,3.34155626124115,"PRI",1,2
+"1722","Chiapas","Villa Comaltitlan","07071","2004","Municipal",10305,2.65804142855267,"PVEM",1,3
+"1723","Chiapas","Villa Comaltitlan","07071","2007","Municipal",8734,2.91036349814725,"PRI",1,4
+"1724","Chiapas","Villa Comaltitlan","07071","2010","Municipal",11496,3.55232479774058,"PT",1,5
+"1725","Chiapas","Villa Comaltitlan","07071","2012","Municipal",10638,3.64924425124239,"PRD_C",1,6
+"1726","Chiapas","Villa Comaltitlan","07071","2015","Municipal",13998,3.23923357413575,"PT",1,7
+"1727","Chiapas","Villa Comaltitlan","07071","2018","Municipal",14152,2.90020327476734,"PVEM",1,8
+"1728","Chiapas","Pueblo Nuevo Solistahuacan","07072","1985","Municipal",4285,1,"PRI",NA,NA
+"1729","Chiapas","Pueblo Nuevo Solistahuacan","07072","1988","Municipal",2832,1.33267930848837,"PRI",0,0
+"1730","Chiapas","Pueblo Nuevo Solistahuacan","07072","1991","Municipal",1073,1.32132393024577,"PRI",0,0
+"1731","Chiapas","Pueblo Nuevo Solistahuacan","07072","1995","Municipal",4707,2.27185627351216,"PRI",0,0
+"1732","Chiapas","Pueblo Nuevo Solistahuacan","07072","1998","Municipal",2224,2.80433691527409,"PAN",1,1
+"1733","Chiapas","Pueblo Nuevo Solistahuacan","07072","2001","Municipal",7392,2.28795446957408,"PRI",1,2
+"1734","Chiapas","Pueblo Nuevo Solistahuacan","07072","2004","Municipal",10086,3.02918157298559,"PRD",1,3
+"1735","Chiapas","Pueblo Nuevo Solistahuacan","07072","2007","Municipal",10538,2.84096357867286,"PRD",0,3
+"1736","Chiapas","Pueblo Nuevo Solistahuacan","07072","2010","Municipal",12523,2.02906601584253,"PAN_C",1,4
+"1737","Chiapas","Pueblo Nuevo Solistahuacan","07072","2012","Municipal",2972,3.05206717170278,"PRI",1,5
+"1738","Chiapas","Pueblo Nuevo Solistahuacan","07072","2015","Municipal",13469,3.34939722384508,"PRD",1,6
+"1739","Chiapas","Pueblo Nuevo Solistahuacan","07072","2018","Municipal",13182,3.10029096738312,"PRD",0,6
+"1740","Chiapas","Rayon","07073","1985","Municipal",1406,1.74124548577468,"PRI",NA,NA
+"1741","Chiapas","Rayon","07073","1988","Municipal",2600,1,"PRI",0,0
+"1742","Chiapas","Rayon","07073","1991","Municipal",1365,1,"PRI",0,0
+"1743","Chiapas","Rayon","07073","1995","Municipal",1626,2.41972081771347,"PRI",0,0
+"1744","Chiapas","Rayon","07073","1998","Municipal",9608,2.33857093299644,"PRI",0,0
+"1745","Chiapas","Rayon","07073","2001","Municipal",2577,2.97490464957114,"PRI",0,0
+"1746","Chiapas","Rayon","07073","2004","Municipal",3038,4.97583121463185,"PRD",1,1
+"1747","Chiapas","Rayon","07073","2007","Municipal",3356,3.15790737804236,"PAN",1,2
+"1748","Chiapas","Rayon","07073","2010","Municipal",3569,3.47238133246426,"PVEM",1,3
+"1749","Chiapas","Rayon","07073","2012","Municipal",12317,3.16814242097756,"PRI",1,4
+"1750","Chiapas","Rayon","07073","2015","Municipal",4789,2.08957046031224,"PRD",1,5
+"1751","Chiapas","Rayon","07073","2018","Municipal",5131,2.90186064407716,"PRI",1,6
+"1752","Chiapas","Reforma","07074","1985","Municipal",1234,1.84065563466257,"PRI",NA,NA
+"1753","Chiapas","Reforma","07074","1988","Municipal",2347,1.18470370304256,"PRI",0,0
+"1754","Chiapas","Reforma","07074","1991","Municipal",7776,1.68153968139552,"PRI",0,0
+"1755","Chiapas","Reforma","07074","1995","Municipal",11264,2.60812684570881,"PRI",0,0
+"1756","Chiapas","Reforma","07074","1998","Municipal",5882,2.49332982360659,"PRD",1,1
+"1757","Chiapas","Reforma","07074","2001","Municipal",9079,4.0308720318879,"PRI",1,2
+"1758","Chiapas","Reforma","07074","2004","Municipal",12288,2.3598519009445,"PAN_C",1,3
+"1759","Chiapas","Reforma","07074","2007","Municipal",14100,6.08826727067836,"PVEM",1,4
+"1760","Chiapas","Reforma","07074","2010","Municipal",12304,3.29728375807225,"PAN_C",1,5
+"1761","Chiapas","Reforma","07074","2012","Municipal",10128,2.90538913779075,"PVEM",1,6
+"1762","Chiapas","Reforma","07074","2015","Municipal",17665,3.64427457254841,"PRI",1,7
+"1763","Chiapas","Reforma","07074","2018","Municipal",20732,2.98934637129147,"PVEM",1,8
+"1764","Chiapas","Las Rosas","07075","1985","Municipal",2906,1,"PRI",NA,NA
+"1765","Chiapas","Las Rosas","07075","1988","Municipal",2023,1,"PRI",0,0
+"1766","Chiapas","Las Rosas","07075","1991","Municipal",2827,1,"PRI",0,0
+"1767","Chiapas","Las Rosas","07075","1995","Municipal",5770,2.52187318993806,"PRI",0,0
+"1768","Chiapas","Las Rosas","07075","1998","Municipal",6223,2.30082047645548,"PRI",0,0
+"1769","Chiapas","Las Rosas","07075","2001","Municipal",6940,3.94324757555325,"PRI",0,0
+"1770","Chiapas","Las Rosas","07075","2004","Municipal",8200,3.94806570001805,"PAN",1,1
+"1771","Chiapas","Las Rosas","07075","2007","Municipal",8629,4.47239664131385,"PRD_C",1,2
+"1772","Chiapas","Las Rosas","07075","2010","Municipal",8596,2.7817163499705,"PAN_C",1,3
+"1773","Chiapas","Las Rosas","07075","2012","Municipal",12283,2.15317213120543,"PRD_C",1,4
+"1774","Chiapas","Las Rosas","07075","2015","Municipal",12128,3.39101614589297,"PRI",1,5
+"1775","Chiapas","Las Rosas","07075","2018","Municipal",11465,3.21737738755982,"MORENA_C",1,6
+"1776","Chiapas","Sabanilla","07076","1985","Municipal",615,1,"PRI",NA,NA
+"1777","Chiapas","Sabanilla","07076","1988","Municipal",4900,1,"PRI",0,0
+"1778","Chiapas","Sabanilla","07076","1991","Municipal",5374,1,"PRI",0,0
+"1779","Chiapas","Sabanilla","07076","1995","Municipal",5770,2.08699284007692,"PRI",0,0
+"1780","Chiapas","Sabanilla","07076","1998","Municipal",8324,3.12366586544526,"PRI",0,0
+"1781","Chiapas","Sabanilla","07076","2001","Municipal",6947,2.23243871914196,"PRD",1,1
+"1782","Chiapas","Sabanilla","07076","2004","Municipal",8812,3.88913529698879,"PRI",1,2
+"1783","Chiapas","Sabanilla","07076","2007","Municipal",7031,2.14230644508165,"PRI",0,2
+"1784","Chiapas","Sabanilla","07076","2010","Municipal",11491,3.62401055412982,"PAN_C",1,3
+"1785","Chiapas","Sabanilla","07076","2012","Municipal",22939,3.02139271721573,"PRI",1,4
+"1786","Chiapas","Sabanilla","07076","2015","Municipal",14453,2.16417700070962,"PRD",1,5
+"1787","Chiapas","Sabanilla","07076","2018","Municipal",15177,2.69468118257266,"PRI",1,6
+"1788","Chiapas","Salto De Agua","07077","1985","Municipal",8928,1,"PRI",NA,NA
+"1789","Chiapas","Salto De Agua","07077","1988","Municipal",5529,1.66562177461181,"PRI",0,0
+"1790","Chiapas","Salto De Agua","07077","1991","Municipal",9637,1,"PRI",0,0
+"1791","Chiapas","Salto De Agua","07077","1995","Municipal",12641,2.1838071780634,"PRD",1,1
+"1792","Chiapas","Salto De Agua","07077","1998","Municipal",27762,2.45462017347628,"PRI",1,2
+"1793","Chiapas","Salto De Agua","07077","2001","Municipal",10003,3.15717614581346,"PRI",0,2
+"1794","Chiapas","Salto De Agua","07077","2004","Municipal",15817,2.78506071810939,"PRI",0,2
+"1795","Chiapas","Salto De Agua","07077","2007","Municipal",11677,1.98475289102753,"PRI",0,2
+"1796","Chiapas","Salto De Agua","07077","2010","Municipal",22633,3.41575437482025,"PAN_C",1,3
+"1797","Chiapas","Salto De Agua","07077","2012","Municipal",51369,3.01561209489941,"PRI",1,4
+"1798","Chiapas","Salto De Agua","07077","2015","Municipal",27953,3.9788020290564,"PRD",1,5
+"1799","Chiapas","Salto De Agua","07077","2018","Municipal",31138,2.95295002577669,"PVEM",1,6
+"1800","Chiapas","San Cristobal De Las Casas","07078","1985","Municipal",13920,1,"PRI",NA,NA
+"1801","Chiapas","San Cristobal De Las Casas","07078","1988","Municipal",7064,1.53864011240006,"PRI",0,0
+"1802","Chiapas","San Cristobal De Las Casas","07078","1991","Municipal",21983,1.72313170717371,"PRI",0,0
+"1803","Chiapas","San Cristobal De Las Casas","07078","1995","Municipal",40594,2.40420019416313,"PRI",0,0
+"1804","Chiapas","San Cristobal De Las Casas","07078","1998","Municipal",6775,3.11814561163843,"PRI",0,0
+"1805","Chiapas","San Cristobal De Las Casas","07078","2001","Municipal",34222,4.49252292389879,"PAS",1,1
+"1806","Chiapas","San Cristobal De Las Casas","07078","2004","Municipal",41787,2.6708124101261,"PRI",1,2
+"1807","Chiapas","San Cristobal De Las Casas","07078","2007","Municipal",48001,4.39854082078061,"PRI_C",1,3
+"1808","Chiapas","San Cristobal De Las Casas","07078","2010","Municipal",38670,2.69218228540573,"PAN_C",1,4
+"1809","Chiapas","San Cristobal De Las Casas","07078","2012","Municipal",13088,2.71724297599796,"PVEM",1,5
+"1810","Chiapas","San Cristobal De Las Casas","07078","2015","Municipal",58872,6.22728248321945,"MORENA",1,6
+"1811","Chiapas","San Cristobal De Las Casas","07078","2018","Municipal",84203,3.22266206863826,"MORENA_C",1,7
+"1812","Chiapas","San Fernando","07079","1985","Municipal",3652,1.4023881526096,"PRI",NA,NA
+"1813","Chiapas","San Fernando","07079","1988","Municipal",5305,1.22332910836066,"PRI",0,0
+"1814","Chiapas","San Fernando","07079","1991","Municipal",8234,1,"PRI",0,0
+"1815","Chiapas","San Fernando","07079","1995","Municipal",6894,2.63455284260273,"PRI",0,0
+"1816","Chiapas","San Fernando","07079","1998","Municipal",7507,2.31028558049742,"PRI",0,0
+"1817","Chiapas","San Fernando","07079","2001","Municipal",9965,3.51417097524007,"PRI",0,0
+"1818","Chiapas","San Fernando","07079","2004","Municipal",11450,3.52570786329851,"PRI",0,0
+"1819","Chiapas","San Fernando","07079","2007","Municipal",9921,1.80836515777642,"PAN",1,1
+"1820","Chiapas","San Fernando","07079","2010","Municipal",13564,3.03202768777075,"PAN_C",1,2
+"1821","Chiapas","San Fernando","07079","2012","Municipal",11426,2.27452154857765,"PRI",1,3
+"1822","Chiapas","San Fernando","07079","2015","Municipal",18203,2.99761657725847,"PRI",0,3
+"1823","Chiapas","San Fernando","07079","2018","Municipal",19713,3.03263480100227,"PVEM",1,4
+"1824","Chiapas","Siltepec","07080","1985","Municipal",7722,1,"PRI",NA,NA
+"1825","Chiapas","Siltepec","07080","1988","Municipal",7132,1,"PRI",0,0
+"1826","Chiapas","Siltepec","07080","1991","Municipal",7526,1.29055736602573,"PRI",0,0
+"1827","Chiapas","Siltepec","07080","1995","Municipal",5664,1.86666439685197,"PRI",0,0
+"1828","Chiapas","Siltepec","07080","1998","Municipal",7840,3.27735768290685,"PRI",0,0
+"1829","Chiapas","Siltepec","07080","2001","Municipal",9230,3.25456806417057,"PRI",0,0
+"1830","Chiapas","Siltepec","07080","2004","Municipal",9977,2.59238950830921,"PRI",0,0
+"1831","Chiapas","Siltepec","07080","2007","Municipal",12590,4.34241635684553,"PVEM",1,1
+"1832","Chiapas","Siltepec","07080","2010","Municipal",14066,2.99672089852565,"PRI",1,2
+"1833","Chiapas","Siltepec","07080","2012","Municipal",2362,2.80292840656862,"PRI",0,2
+"1834","Chiapas","Siltepec","07080","2015","Municipal",17308,3.5210654779451,"PRI",0,2
+"1835","Chiapas","Siltepec","07080","2018","Municipal",16381,3.30732414519979,"PRI",0,2
+"1836","Chiapas","Simojovel","07081","1985","Municipal",6383,1.33470362378911,"PRI",NA,NA
+"1837","Chiapas","Simojovel","07081","1988","Municipal",4526,2.05531467530933,"PRI",0,0
+"1838","Chiapas","Simojovel","07081","1991","Municipal",6602,1.77881951895348,"PRI",0,0
+"1839","Chiapas","Simojovel","07081","1995","Municipal",4481,2.76139192742254,"PRI",0,0
+"1840","Chiapas","Simojovel","07081","1998","Municipal",3072,1.9987348158218,"PRI",0,0
+"1841","Chiapas","Simojovel","07081","2001","Municipal",9953,4.28176285058295,"PRI",0,0
+"1842","Chiapas","Simojovel","07081","2004","Municipal",10491,3.10595037573081,"PRI",0,0
+"1843","Chiapas","Simojovel","07081","2007","Municipal",11588,4.32549256770841,"PT_C",1,1
+"1844","Chiapas","Simojovel","07081","2010","Municipal",14840,3.59862056535871,"PRI",1,2
+"1845","Chiapas","Simojovel","07081","2012","Municipal",12273,3.11431058675225,"PRI",0,2
+"1846","Chiapas","Simojovel","07081","2015","Municipal",21258,1.16104195748679,"PRI",0,2
+"1847","Chiapas","Simojovel","07081","2018","Municipal",22880,3.06119930757541,"PVEM",1,3
+"1848","Chiapas","Sitala","07082","1985","Municipal",2281,1,"PRI",NA,NA
+"1849","Chiapas","Sitala","07082","1988","Municipal",1999,1,"PRI",0,0
+"1850","Chiapas","Sitala","07082","1991","Municipal",2550,1,"PRI",0,0
+"1851","Chiapas","Sitala","07082","1995","Municipal",2184,2.03218662510833,"PRD",1,1
+"1852","Chiapas","Sitala","07082","1998","Municipal",4162,2.21649428297268,"PRD",0,1
+"1853","Chiapas","Sitala","07082","2001","Municipal",4021,2.93840265647051,"PRD",0,1
+"1854","Chiapas","Sitala","07082","2004","Municipal",4468,1.98814990996505,"PRI",1,2
+"1855","Chiapas","Sitala","07082","2007","Municipal",2669,1,"PRI_C",1,3
+"1856","Chiapas","Sitala","07082","2010","Municipal",5681,2.0401082641272,"PAN_C",1,4
+"1857","Chiapas","Sitala","07082","2012","Municipal",16121,3.95881022315675,"PRI",1,5
+"1858","Chiapas","Sitala","07082","2015","Municipal",6801,1.02310542136561,"PRI",0,5
+"1859","Chiapas","Sitala","07082","2018","Municipal",6742,2.83867857900588,"NVA_ALIANZA",1,6
+"1860","Chiapas","Socoltenango","07083","1985","Municipal",3114,1,"PRI",NA,NA
+"1861","Chiapas","Socoltenango","07083","1988","Municipal",3398,1,"PRI",0,0
+"1862","Chiapas","Socoltenango","07083","1991","Municipal",4105,1,"PRI",0,0
+"1863","Chiapas","Socoltenango","07083","1995","Municipal",3498,2.07654029867688,"PRI",0,0
+"1864","Chiapas","Socoltenango","07083","1998","Municipal",2513,2.77399031726329,"PRI",0,0
+"1865","Chiapas","Socoltenango","07083","2001","Municipal",5498,1.92352677735536,"PRD",1,1
+"1866","Chiapas","Socoltenango","07083","2004","Municipal",5717,2.97428002406814,"PRI",1,2
+"1867","Chiapas","Socoltenango","07083","2007","Municipal",6744,4.62507541395843,"PRD_C",1,3
+"1868","Chiapas","Socoltenango","07083","2010","Municipal",7232,2.77484015857009,"PAN_C",1,4
+"1869","Chiapas","Socoltenango","07083","2012","Municipal",5958,2.26696779004231,"PRD_C",1,5
+"1870","Chiapas","Socoltenango","07083","2015","Municipal",9592,2.21645305976362,"PRI",1,6
+"1871","Chiapas","Socoltenango","07083","2018","Municipal",9900,3.3797919746063,"NVA_ALIANZA",1,7
+"1872","Chiapas","Solosuchiapa","07084","1985","Municipal",670,1.59043401240035,"PRI",NA,NA
+"1873","Chiapas","Solosuchiapa","07084","1988","Municipal",1974,1,"PRI",0,0
+"1874","Chiapas","Solosuchiapa","07084","1991","Municipal",2488,1,"PRI",0,0
+"1875","Chiapas","Solosuchiapa","07084","1995","Municipal",2034,1.35611538824379,"PRI",0,0
+"1876","Chiapas","Solosuchiapa","07084","1998","Municipal",2948,1.97804423819073,"PRI",0,0
+"1877","Chiapas","Solosuchiapa","07084","2001","Municipal",3095,2.35909331905489,"PRI",0,0
+"1878","Chiapas","Solosuchiapa","07084","2004","Municipal",3411,1.98798215385403,"PRI",0,0
+"1879","Chiapas","Solosuchiapa","07084","2007","Municipal",3869,2.81235016122161,"PAN",1,1
+"1880","Chiapas","Solosuchiapa","07084","2010","Municipal",3808,2.54128081273043,"PAN_C",1,2
+"1881","Chiapas","Solosuchiapa","07084","2012","Municipal",6750,2.45255363835882,"PVEM",1,3
+"1882","Chiapas","Solosuchiapa","07084","2015","Municipal",4489,2.73887721258399,"PRI",1,4
+"1883","Chiapas","Solosuchiapa","07084","2018","Municipal",4465,2.88617353502695,"PVEM",1,5
+"1884","Chiapas","Soyalo","07085","1985","Municipal",1281,1.14850099910063,"PRI",NA,NA
+"1885","Chiapas","Soyalo","07085","1988","Municipal",856,1.97412506398685,"PRI",0,0
+"1886","Chiapas","Soyalo","07085","1991","Municipal",2213,1.16216497132775,"PRI",0,0
+"1887","Chiapas","Soyalo","07085","1995","Municipal",2289,1.50644299597159,"PRI",0,0
+"1888","Chiapas","Soyalo","07085","1998","Municipal",5971,2.57264230193217,"PRD",1,1
+"1889","Chiapas","Soyalo","07085","2001","Municipal",3406,3.67265609071676,"PRI",1,2
+"1890","Chiapas","Soyalo","07085","2004","Municipal",3724,2.95343969292597,"PRD",1,3
+"1891","Chiapas","Soyalo","07085","2007","Municipal",3195,2.95241688476841,"PRI",1,4
+"1892","Chiapas","Soyalo","07085","2010","Municipal",4266,4.54945996484904,"PAN_C",1,5
+"1893","Chiapas","Soyalo","07085","2012","Municipal",2254,2.12326029446796,"PRI",1,6
+"1894","Chiapas","Soyalo","07085","2015","Municipal",5394,2.6723222440826,"PRI",0,6
+"1895","Chiapas","Soyalo","07085","2018","Municipal",5710,3.2191790680556,"Independiente.1",1,7
+"1896","Chiapas","Suchiapa","07086","1985","Municipal",2767,1.99128999562796,"PRI",NA,NA
+"1897","Chiapas","Suchiapa","07086","1988","Municipal",3166,1.97585268600922,"PRI",0,0
+"1898","Chiapas","Suchiapa","07086","1991","Municipal",4172,1,"PRI",0,0
+"1899","Chiapas","Suchiapa","07086","1995","Municipal",4335,2.72145209248743,"PRI",0,0
+"1900","Chiapas","Suchiapa","07086","1998","Municipal",7447,3.1455050830334,"PRI",0,0
+"1901","Chiapas","Suchiapa","07086","2001","Municipal",7341,5.62324297788623,"PVEM",1,1
+"1902","Chiapas","Suchiapa","07086","2004","Municipal",8128,3.37642308928157,"PRI",1,2
+"1903","Chiapas","Suchiapa","07086","2007","Municipal",9554,4.71134348295948,"PAN",1,3
+"1904","Chiapas","Suchiapa","07086","2010","Municipal",9650,3.35742590104913,"PVEM",1,4
+"1905","Chiapas","Suchiapa","07086","2012","Municipal",4568,4.00749123568482,"PVEM",0,4
+"1906","Chiapas","Suchiapa","07086","2015","Municipal",11685,3.21455291165873,"PAN",1,5
+"1907","Chiapas","Suchiapa","07086","2018","Municipal",12801,3.03550708787952,"PVEM",1,6
+"1908","Chiapas","Suchiate","07087","1985","Municipal",2601,1.98692428266528,"PRI",NA,NA
+"1909","Chiapas","Suchiate","07087","1988","Municipal",2438,1.99397631587776,"PRI",0,0
+"1910","Chiapas","Suchiate","07087","1991","Municipal",6074,1.6278918390956,"PRI",0,0
+"1911","Chiapas","Suchiate","07087","1995","Municipal",8348,2.65794281463065,"PRD",1,1
+"1912","Chiapas","Suchiate","07087","1998","Municipal",748,1.82372928272378,"PRI",1,2
+"1913","Chiapas","Suchiate","07087","2001","Municipal",8502,4.14725845862797,"PRD",1,3
+"1914","Chiapas","Suchiate","07087","2004","Municipal",9088,4.66003891190458,"PRI",1,4
+"1915","Chiapas","Suchiate","07087","2007","Municipal",8097,3.52386417645893,"PAN",1,5
+"1916","Chiapas","Suchiate","07087","2010","Municipal",10904,3.75941918137702,"PVEM",1,6
+"1917","Chiapas","Suchiate","07087","2012","Municipal",7441,3.34414546781462,"PRI",1,7
+"1918","Chiapas","Suchiate","07087","2015","Municipal",15169,4.78740564739558,"PRI",0,7
+"1919","Chiapas","Suchiate","07087","2018","Municipal",16680,3.2885288255826,"PVEM",1,8
+"1920","Chiapas","Sunuapa","07088","1985","Municipal",666,1,"PRI",NA,NA
+"1921","Chiapas","Sunuapa","07088","1988","Municipal",666,1,"PRI",0,0
+"1922","Chiapas","Sunuapa","07088","1991","Municipal",716,1,"PRI",0,0
+"1923","Chiapas","Sunuapa","07088","1995","Municipal",691,1.22081956972998,"PRI",0,0
+"1924","Chiapas","Sunuapa","07088","1998","Municipal",51123,2.39250748935801,"PRI",0,0
+"1925","Chiapas","Sunuapa","07088","2001","Municipal",893,1.98299192004601,"PRI",0,0
+"1926","Chiapas","Sunuapa","07088","2004","Municipal",1072,2.46401930318093,"PT",1,1
+"1927","Chiapas","Sunuapa","07088","2007","Municipal",1252,3.53715178016715,"PRI_C",1,2
+"1928","Chiapas","Sunuapa","07088","2010","Municipal",1264,2.40171779747535,"PAN_C",1,3
+"1929","Chiapas","Sunuapa","07088","2012","Municipal",9269,2.84584026325034,"PVEM",1,4
+"1930","Chiapas","Sunuapa","07088","2015","Municipal",1553,2.01877415329992,"PANAL",1,5
+"1931","Chiapas","Sunuapa","07088","2018","Municipal",1525,2.75404467939487,"PAN_C",1,6
+"1932","Chiapas","Tapachula","07089","1985","Municipal",18373,1,"PRI",NA,NA
+"1933","Chiapas","Tapachula","07089","1988","Municipal",14168,1.42724542580126,"PRI",0,0
+"1934","Chiapas","Tapachula","07089","1991","Municipal",62830,1.93973987500277,"PRI",0,0
+"1935","Chiapas","Tapachula","07089","1995","Municipal",83969,2.43523291100893,"PRD",1,1
+"1936","Chiapas","Tapachula","07089","1998","Municipal",1543,1.99446042635456,"PRD",0,1
+"1937","Chiapas","Tapachula","07089","2001","Municipal",48410,2.88011728848262,"PRI",1,2
+"1938","Chiapas","Tapachula","07089","2004","Municipal",62107,2.27921017985783,"PAN_C",1,3
+"1939","Chiapas","Tapachula","07089","2007","Municipal",80125,2.98265301323484,"PRI",1,4
+"1940","Chiapas","Tapachula","07089","2010","Municipal",81855,2.28973799467934,"PAN_C",1,5
+"1941","Chiapas","Tapachula","07089","2012","Municipal",1294,2.83461597061164,"PVEM",1,6
+"1942","Chiapas","Tapachula","07089","2015","Municipal",97007,3.17581292530108,"PRI_C",1,7
+"1943","Chiapas","Tapachula","07089","2018","Municipal",131265,2.73179986825991,"MORENA_C",1,8
+"1944","Chiapas","Tapalapa","07090","1985","Municipal",1136,1,"PRI",NA,NA
+"1945","Chiapas","Tapalapa","07090","1988","Municipal",1204,1,"PRI",0,0
+"1946","Chiapas","Tapalapa","07090","1991","Municipal",1028,1.99275146422685,"PRI",0,0
+"1947","Chiapas","Tapalapa","07090","1995","Municipal",1193,2.01061917433145,"PRI",0,0
+"1948","Chiapas","Tapalapa","07090","1998","Municipal",3413,2.30119019356646,"PRI",0,0
+"1949","Chiapas","Tapalapa","07090","2001","Municipal",1821,2.19245365130674,"PRI",0,0
+"1950","Chiapas","Tapalapa","07090","2004","Municipal",2016,1.99999185406559,"PAN_C",1,1
+"1951","Chiapas","Tapalapa","07090","2007","Municipal",1407,1.36887127060296,"PRI",1,2
+"1952","Chiapas","Tapalapa","07090","2010","Municipal",2385,1.99227769589217,"PAN_C",1,3
+"1953","Chiapas","Tapalapa","07090","2012","Municipal",76661,1.88128777053436,"PRI",1,4
+"1954","Chiapas","Tapalapa","07090","2015","Municipal",2672,2.01244934836251,"PRD",1,5
+"1955","Chiapas","Tapalapa","07090","2018","Municipal",2750,2.90885891227338,"PRI",1,6
+"1956","Chiapas","Tapilula","07091","1985","Municipal",1494,1.77192684409994,"PRI",NA,NA
+"1957","Chiapas","Tapilula","07091","1988","Municipal",1296,1.50626048121676,"PRI",0,0
+"1958","Chiapas","Tapilula","07091","1991","Municipal",2784,1,"PRI",0,0
+"1959","Chiapas","Tapilula","07091","1995","Municipal",2482,2.12107302273484,"PRI",0,0
+"1960","Chiapas","Tapilula","07091","1998","Municipal",7872,1.79772295407622,"PRI",0,0
+"1961","Chiapas","Tapilula","07091","2001","Municipal",3530,2.64993107403919,"PAN",1,1
+"1962","Chiapas","Tapilula","07091","2004","Municipal",4366,2.06843103541012,"PRI",1,2
+"1963","Chiapas","Tapilula","07091","2007","Municipal",3194,1.87314299071337,"PAN",1,3
+"1964","Chiapas","Tapilula","07091","2010","Municipal",5117,2.40058040718821,"PRI",1,4
+"1965","Chiapas","Tapilula","07091","2012","Municipal",2430,2.01474250097071,"PRI",0,4
+"1966","Chiapas","Tapilula","07091","2015","Municipal",5955,3.35348214644587,"MC",1,5
+"1967","Chiapas","Tapilula","07091","2018","Municipal",6709,2.98515289840132,"PRI",1,6
+"1968","Chiapas","Tecpatan","07092","1985","Municipal",5868,1,"PRI",NA,NA
+"1969","Chiapas","Tecpatan","07092","1988","Municipal",3346,1.16045248429784,"PRI",0,0
+"1970","Chiapas","Tecpatan","07092","1991","Municipal",9449,1,"PRI",0,0
+"1971","Chiapas","Tecpatan","07092","1995","Municipal",10344,2.03280150800952,"PRI",0,0
+"1972","Chiapas","Tecpatan","07092","1998","Municipal",6064,2.80637570797215,"PRI",0,0
+"1973","Chiapas","Tecpatan","07092","2001","Municipal",10922,2.56560323906074,"PRI",0,0
+"1974","Chiapas","Tecpatan","07092","2004","Municipal",13861,2.91524065815814,"PAN_C",1,1
+"1975","Chiapas","Tecpatan","07092","2007","Municipal",11078,1.68190064296926,"PRI_C",1,2
+"1976","Chiapas","Tecpatan","07092","2010","Municipal",16949,2.40306949088021,"PRI",0,2
+"1977","Chiapas","Tecpatan","07092","2012","Municipal",3525,2.35712330464016,"PVEM",1,3
+"1978","Chiapas","Tecpatan","07092","2015","Municipal",11065,3.02185457999743,"Independiente.1",1,4
+"1979","Chiapas","Tecpatan","07092","2018","Municipal",11473,3.15541355214325,"PRI",1,5
+"1980","Chiapas","Tenejapa","07093","1985","Municipal",6906,1,"PRI",NA,NA
+"1981","Chiapas","Tenejapa","07093","1988","Municipal",7791,1,"PRI",0,0
+"1982","Chiapas","Tenejapa","07093","1991","Municipal",6053,1,"PRI",0,0
+"1983","Chiapas","Tenejapa","07093","1995","Municipal",9321,2.21722216242548,"PRI",0,0
+"1984","Chiapas","Tenejapa","07093","1998","Municipal",5808,2.70511181345615,"PRI",0,0
+"1985","Chiapas","Tenejapa","07093","2001","Municipal",9465,3.41131435666483,"PRI",0,0
+"1986","Chiapas","Tenejapa","07093","2004","Municipal",9694,2.31225536343212,"PAN_C",1,1
+"1987","Chiapas","Tenejapa","07093","2007","Municipal",7482,2.1514265720888,"PRI",1,2
+"1988","Chiapas","Tenejapa","07093","2010","Municipal",12884,3.91258764308975,"PAN_C",1,3
+"1989","Chiapas","Tenejapa","07093","2012","Municipal",8788,2.44361590001437,"PRI",1,4
+"1990","Chiapas","Tenejapa","07093","2015","Municipal",18790,2.16377543428976,"PRI",0,4
+"1991","Chiapas","Tenejapa","07093","2018","Municipal",19248,3.26170006162332,"PVEM",1,5
+"1992","Chiapas","Teopisca","07094","1985","Municipal",3968,1,"PRI",NA,NA
+"1993","Chiapas","Teopisca","07094","1988","Municipal",5627,1,"PRI",0,0
+"1994","Chiapas","Teopisca","07094","1991","Municipal",3817,1,"PRI",0,0
+"1995","Chiapas","Teopisca","07094","1995","Municipal",7201,2.36887691776802,"PRI",0,0
+"1996","Chiapas","Teopisca","07094","1998","Municipal",10559,2.12322070249131,"PRI",0,0
+"1997","Chiapas","Teopisca","07094","2001","Municipal",7118,3.64912635521394,"PRI",0,0
+"1998","Chiapas","Teopisca","07094","2004","Municipal",9488,2.6421556940348,"PRI",0,0
+"1999","Chiapas","Teopisca","07094","2007","Municipal",10587,2.58727224290459,"PRI_C",1,1
+"2000","Chiapas","Teopisca","07094","2010","Municipal",10452,3.42692763015156,"PAN_C",1,2
+"2001","Chiapas","Teopisca","07094","2012","Municipal",14579,2.51293943613887,"PVEM",1,3
+"2002","Chiapas","Teopisca","07094","2015","Municipal",17616,2.99972599692275,"PRI",1,4
+"2003","Chiapas","Teopisca","07094","2018","Municipal",19779,3.25882680661242,"PRI",0,4
+"2004","Chiapas","Tila","07096","1985","Municipal",10413,1.04595272679255,"PRI",NA,NA
+"2005","Chiapas","Tila","07096","1988","Municipal",10148,1,"PRI",0,0
+"2006","Chiapas","Tila","07096","1991","Municipal",12247,1.02940563041175,"PRI",0,0
+"2007","Chiapas","Tila","07096","1995","Municipal",11748,2.70257844729391,"PRD",1,1
+"2008","Chiapas","Tila","07096","1998","Municipal",19106,3.15296714733418,"PRI",1,2
+"2009","Chiapas","Tila","07096","2001","Municipal",17338,3.54789061065398,"PRI",0,2
+"2010","Chiapas","Tila","07096","2004","Municipal",19392,2.97020197556579,"PRI",0,2
+"2011","Chiapas","Tila","07096","2007","Municipal",23601,3.10575619355868,"PVEM",1,3
+"2012","Chiapas","Tila","07096","2010","Municipal",29066,3.22974428794922,"PVEM",0,3
+"2013","Chiapas","Tila","07096","2012","Municipal",12561,2.30170456029717,"PRI",1,4
+"2014","Chiapas","Tila","07096","2015","Municipal",32641,2.66108686627004,"PRI",0,4
+"2015","Chiapas","Tila","07096","2018","Municipal",29211,2.6457643879391,"PVEM",1,5
+"2016","Chiapas","Tonala","07097","1985","Municipal",11768,1.02616631850009,"PRI",NA,NA
+"2017","Chiapas","Tonala","07097","1988","Municipal",5318,1.25213077357443,"PRI",0,0
+"2018","Chiapas","Tonala","07097","1991","Municipal",16233,1.71752399259631,"PRI",0,0
+"2019","Chiapas","Tonala","07097","1995","Municipal",21766,2.53691067342038,"PRI",0,0
+"2020","Chiapas","Tonala","07097","1998","Municipal",2294,1.99528627094081,"PRD",1,1
+"2021","Chiapas","Tonala","07097","2001","Municipal",26506,4.7762453679507,"PAN",1,2
+"2022","Chiapas","Tonala","07097","2004","Municipal",26898,3.22380860453995,"PRI",1,3
+"2023","Chiapas","Tonala","07097","2007","Municipal",23944,3.03666116989417,"PAN_C",1,4
+"2024","Chiapas","Tonala","07097","2010","Municipal",26568,2.72664222707999,"PAN_C",0,4
+"2025","Chiapas","Tonala","07097","2012","Municipal",25399,2.2844046134165,"PVEM",1,5
+"2026","Chiapas","Tonala","07097","2015","Municipal",35481,4.25109031632877,"PRI",1,6
+"2027","Chiapas","Tonala","07097","2018","Municipal",42853,3.15467639604079,"PVEM",1,7
+"2028","Chiapas","Totolapa","07098","1985","Municipal",1027,1.67666139429153,"PRI",NA,NA
+"2029","Chiapas","Totolapa","07098","1988","Municipal",1900,1,"PRI",0,0
+"2030","Chiapas","Totolapa","07098","1991","Municipal",671,1,"PRI",0,0
+"2031","Chiapas","Totolapa","07098","1995","Municipal",680,2.98627386109209,"PRI",0,0
+"2032","Chiapas","Totolapa","07098","1998","Municipal",9660,2.5710977758023,"PRI",0,0
+"2033","Chiapas","Totolapa","07098","2001","Municipal",2681,2.49894483504153,"PRI",0,0
+"2034","Chiapas","Totolapa","07098","2004","Municipal",2960,2.96656080623006,"PAN_C",1,1
+"2035","Chiapas","Totolapa","07098","2007","Municipal",3247,3.62512653913649,"PRI_C",1,2
+"2036","Chiapas","Totolapa","07098","2010","Municipal",3580,2.04691490192511,"PAN_C",1,3
+"2037","Chiapas","Totolapa","07098","2012","Municipal",29463,4.30623078369292,"PRI",1,4
+"2038","Chiapas","Totolapa","07098","2015","Municipal",4497,1.07177259833262,"PRD",1,5
+"2039","Chiapas","Totolapa","07098","2018","Municipal",4757,2.65926057736898,"PRD",0,5
+"2040","Chiapas","La Trinitaria","07099","1985","Municipal",9066,1,"PRI",NA,NA
+"2041","Chiapas","La Trinitaria","07099","1988","Municipal",8680,1,"PRI",0,0
+"2042","Chiapas","La Trinitaria","07099","1991","Municipal",18114,1,"PRI",0,0
+"2043","Chiapas","La Trinitaria","07099","1995","Municipal",14266,2.30860860584087,"PRI",0,0
+"2044","Chiapas","La Trinitaria","07099","1998","Municipal",6693,2.4628017209754,"PRI",0,0
+"2045","Chiapas","La Trinitaria","07099","2001","Municipal",16222,2.11964702104363,"PRI",0,0
+"2046","Chiapas","La Trinitaria","07099","2004","Municipal",20599,2.93890047370049,"PRI",0,0
+"2047","Chiapas","La Trinitaria","07099","2007","Municipal",25138,3.58007747437295,"PT_C",1,1
+"2048","Chiapas","La Trinitaria","07099","2010","Municipal",32126,2.07653524429771,"PRI",1,2
+"2049","Chiapas","La Trinitaria","07099","2012","Municipal",3938,2.89156916752251,"PRD_C",1,3
+"2050","Chiapas","La Trinitaria","07099","2015","Municipal",41633,2.15014276596073,"PRI",1,4
+"2051","Chiapas","La Trinitaria","07099","2018","Municipal",42587,2.82296566877724,"PRI",0,4
+"2052","Chiapas","Tumbala","07100","1985","Municipal",7232,1.03202325542849,"PRI",NA,NA
+"2053","Chiapas","Tumbala","07100","1988","Municipal",7684,1.43456439784618,"PRI",0,0
+"2054","Chiapas","Tumbala","07100","1991","Municipal",7180,1,"PRI",0,0
+"2055","Chiapas","Tumbala","07100","1995","Municipal",7714,1.60983052350241,"PRI",0,0
+"2056","Chiapas","Tumbala","07100","1998","Municipal",93859,2.58891917725621,"PAN",1,1
+"2057","Chiapas","Tumbala","07100","2001","Municipal",7791,2.81007488498781,"PRI",1,2
+"2058","Chiapas","Tumbala","07100","2004","Municipal",9940,3.03063294105262,"PRI",0,2
+"2059","Chiapas","Tumbala","07100","2007","Municipal",12037,3.9308038875331,"PAN",1,3
+"2060","Chiapas","Tumbala","07100","2010","Municipal",14251,3.78687714376214,"PVEM",1,4
+"2061","Chiapas","Tumbala","07100","2012","Municipal",34869,2.14924919788462,"PVEM",0,4
+"2062","Chiapas","Tumbala","07100","2015","Municipal",17426,2.07065628639061,"MORENA",1,5
+"2063","Chiapas","Tumbala","07100","2018","Municipal",18434,3.05999865439592,"NVA_ALIANZA",1,6
+"2064","Chiapas","Tuxtla Gutierrez","07101","1985","Municipal",42294,1.11119769057258,"PRI",NA,NA
+"2065","Chiapas","Tuxtla Gutierrez","07101","1988","Municipal",20191,1.811030418346,"PRI",0,0
+"2066","Chiapas","Tuxtla Gutierrez","07101","1991","Municipal",70765,2.39381415611583,"PRI",0,0
+"2067","Chiapas","Tuxtla Gutierrez","07101","1995","Municipal",128210,2.88059158711711,"PRI",0,0
+"2068","Chiapas","Tuxtla Gutierrez","07101","1998","Municipal",9399,3.18945107474625,"PRI",0,0
+"2069","Chiapas","Tuxtla Gutierrez","07101","2001","Municipal",85679,2.75952646758866,"PAN",1,1
+"2070","Chiapas","Tuxtla Gutierrez","07101","2004","Municipal",135947,1.87324533436231,"PRI",1,2
+"2071","Chiapas","Tuxtla Gutierrez","07101","2007","Municipal",118799,2.62824114335932,"PRD_C",1,3
+"2072","Chiapas","Tuxtla Gutierrez","07101","2010","Municipal",97952,2.37797119325599,"PAN_C",1,4
+"2073","Chiapas","Tuxtla Gutierrez","07101","2012","Municipal",14230,3.18640123865227,"PVEM",1,5
+"2074","Chiapas","Tuxtla Gutierrez","07101","2015","Municipal",166891,2.92251355113942,"PRI_C",1,6
+"2075","Chiapas","Tuxtla Gutierrez","07101","2018","Municipal",264127,2.94126878888645,"MORENA_C",1,7
+"2076","Chiapas","Tuxtla Chico","07102","1985","Municipal",3127,1.99041466560844,"PRI",NA,NA
+"2077","Chiapas","Tuxtla Chico","07102","1988","Municipal",3787,1.97465944162678,"PRI",0,0
+"2078","Chiapas","Tuxtla Chico","07102","1991","Municipal",8336,1.89481946111122,"PRI",0,0
+"2079","Chiapas","Tuxtla Chico","07102","1995","Municipal",10556,2.93116243286246,"PRI",0,0
+"2080","Chiapas","Tuxtla Chico","07102","1998","Municipal",6725,3.36056628991523,"PRI",0,0
+"2081","Chiapas","Tuxtla Chico","07102","2001","Municipal",11114,3.62671601097265,"PAS",1,1
+"2082","Chiapas","Tuxtla Chico","07102","2004","Municipal",13162,4.01478470569242,"PAN",1,2
+"2083","Chiapas","Tuxtla Chico","07102","2007","Municipal",14557,3.8918266162395,"PRI",1,3
+"2084","Chiapas","Tuxtla Chico","07102","2010","Municipal",14237,2.81802934991855,"PAN_C",1,4
+"2085","Chiapas","Tuxtla Chico","07102","2012","Municipal",11837,2.94904549119133,"PVEM",1,5
+"2086","Chiapas","Tuxtla Chico","07102","2015","Municipal",19194,5.92065221039212,"PRI",1,6
+"2087","Chiapas","Tuxtla Chico","07102","2018","Municipal",20424,3.36143761504091,"MORENA_C",1,7
+"2088","Chiapas","Tuzantan","07103","1985","Municipal",1868,1.67157715625934,"PRI",NA,NA
+"2089","Chiapas","Tuzantan","07103","1988","Municipal",2384,1.74271998273058,"PRI",0,0
+"2090","Chiapas","Tuzantan","07103","1991","Municipal",5423,1.39318824098723,"PRI",0,0
+"2091","Chiapas","Tuzantan","07103","1995","Municipal",7139,2.81048082759189,"PRI",0,0
+"2092","Chiapas","Tuzantan","07103","1998","Municipal",3141,2.37711181757013,"PRI",0,0
+"2093","Chiapas","Tuzantan","07103","2001","Municipal",8152,3.34116020780857,"PRD",1,1
+"2094","Chiapas","Tuzantan","07103","2004","Municipal",9015,3.06102749171141,"PAN",1,2
+"2095","Chiapas","Tuzantan","07103","2007","Municipal",10324,4.69304432153416,"PAN",0,2
+"2096","Chiapas","Tuzantan","07103","2010","Municipal",10394,3.17174188023282,"PAN_C",1,3
+"2097","Chiapas","Tuzantan","07103","2012","Municipal",180303,3.24532498202038,"PRD_C",1,4
+"2098","Chiapas","Tuzantan","07103","2015","Municipal",12999,4.42656285092641,"PRI",1,5
+"2099","Chiapas","Tuzantan","07103","2018","Municipal",14826,3.24574535315968,"NVA_ALIANZA",1,6
+"2100","Chiapas","Tzimol","07104","1985","Municipal",2234,1,"PRI",NA,NA
+"2101","Chiapas","Tzimol","07104","1988","Municipal",2403,1,"PRI",0,0
+"2102","Chiapas","Tzimol","07104","1991","Municipal",3368,1,"PRI",0,0
+"2103","Chiapas","Tzimol","07104","1995","Municipal",3934,1.55021273082379,"PRI",0,0
+"2104","Chiapas","Tzimol","07104","1998","Municipal",4959,2.39141724367521,"PRD",1,1
+"2105","Chiapas","Tzimol","07104","2001","Municipal",4246,2.37311048487858,"PRI",1,2
+"2106","Chiapas","Tzimol","07104","2004","Municipal",5554,2.15496182446689,"PRI",0,2
+"2107","Chiapas","Tzimol","07104","2007","Municipal",6344,2.00862058107008,"PRD_C",1,3
+"2108","Chiapas","Tzimol","07104","2010","Municipal",7240,2.48707855777005,"PRI",1,4
+"2109","Chiapas","Tzimol","07104","2012","Municipal",7949,2.51675112250612,"PVEM",1,5
+"2110","Chiapas","Tzimol","07104","2015","Municipal",8840,1.10403205553214,"PRI",1,6
+"2111","Chiapas","Tzimol","07104","2018","Municipal",9465,3.00828270587107,"Independiente.1",1,7
+"2112","Chiapas","Union Juarez","07105","1985","Municipal",2916,1,"PRI",NA,NA
+"2113","Chiapas","Union Juarez","07105","1988","Municipal",1511,1,"PRI",0,0
+"2114","Chiapas","Union Juarez","07105","1991","Municipal",3929,1.88126262768441,"PRI",0,0
+"2115","Chiapas","Union Juarez","07105","1995","Municipal",4479,2.10927259527061,"PRI",0,0
+"2116","Chiapas","Union Juarez","07105","1998","Municipal",13100,2.05639506889291,"PRI",0,0
+"2117","Chiapas","Union Juarez","07105","2001","Municipal",5292,3.79050426399648,"PRI",0,0
+"2118","Chiapas","Union Juarez","07105","2004","Municipal",5373,2.64878538194112,"PRD",1,1
+"2119","Chiapas","Union Juarez","07105","2007","Municipal",5199,2.8601021643474,"PAN",1,2
+"2120","Chiapas","Union Juarez","07105","2010","Municipal",6837,3.58700984320172,"PVEM",1,3
+"2121","Chiapas","Union Juarez","07105","2012","Municipal",7265,2.19995304676964,"PRI",1,4
+"2122","Chiapas","Union Juarez","07105","2015","Municipal",7788,3.71390472418598,"PAN",1,5
+"2123","Chiapas","Union Juarez","07105","2018","Municipal",8450,3.24735627961123,"MORENA_C",1,6
+"2124","Chiapas","Venustiano Carranza","07106","1985","Municipal",8294,1,"PRI",NA,NA
+"2125","Chiapas","Venustiano Carranza","07106","1988","Municipal",7140,1,"PRI",0,0
+"2126","Chiapas","Venustiano Carranza","07106","1991","Municipal",13208,1,"PRI",0,0
+"2127","Chiapas","Venustiano Carranza","07106","1995","Municipal",15779,2.82614430011621,"PRI",0,0
+"2128","Chiapas","Venustiano Carranza","07106","1998","Municipal",18066,2.62030451722791,"PRI",0,0
+"2129","Chiapas","Venustiano Carranza","07106","2001","Municipal",15552,3.12075054633637,"PRI",0,0
+"2130","Chiapas","Venustiano Carranza","07106","2004","Municipal",16721,1.97267431209989,"PAN_C",1,1
+"2131","Chiapas","Venustiano Carranza","07106","2007","Municipal",12881,1.8267292058689,"PAN",0,1
+"2132","Chiapas","Venustiano Carranza","07106","2010","Municipal",21261,3.69082975185267,"PAN_C",1,2
+"2133","Chiapas","Venustiano Carranza","07106","2012","Municipal",5103,3.40163248415123,"PRI",1,3
+"2134","Chiapas","Venustiano Carranza","07106","2015","Municipal",24128,3.5425183926352,"PRI",0,3
+"2135","Chiapas","Venustiano Carranza","07106","2018","Municipal",26878,3.01463011150618,"MORENA_C",1,4
+"2136","Chiapas","Villa Corzo","07107","1985","Municipal",11567,1,"PRI",NA,NA
+"2137","Chiapas","Villa Corzo","07107","1988","Municipal",6577,1.23143346326932,"PRI",0,0
+"2138","Chiapas","Villa Corzo","07107","1991","Municipal",15695,1.14756909830822,"PRI",0,0
+"2139","Chiapas","Villa Corzo","07107","1995","Municipal",17841,3.04032387247171,"PRD",1,1
+"2140","Chiapas","Villa Corzo","07107","1998","Municipal",21179,3.26784146804225,"PRI",1,2
+"2141","Chiapas","Villa Corzo","07107","2001","Municipal",21591,3.02655712186151,"PRD",1,3
+"2142","Chiapas","Villa Corzo","07107","2004","Municipal",24838,2.77038501687167,"PRI",1,4
+"2143","Chiapas","Villa Corzo","07107","2007","Municipal",26226,3.51610776949639,"PRI",0,4
+"2144","Chiapas","Villa Corzo","07107","2010","Municipal",29206,3.31423700654717,"PAN_C",1,5
+"2145","Chiapas","Villa Corzo","07107","2012","Municipal",18730,2.65803924715822,"PVEM",1,6
+"2146","Chiapas","Villa Corzo","07107","2015","Municipal",28858,4.40603728005021,"PRI",1,7
+"2147","Chiapas","Villa Corzo","07107","2018","Municipal",30448,3.11588873896625,"MORENA_C",1,8
+"2148","Chiapas","Villaflores","07108","1985","Municipal",15061,1,"PRI",NA,NA
+"2149","Chiapas","Villaflores","07108","1988","Municipal",8287,1.20578270783026,"PRI",0,0
+"2150","Chiapas","Villaflores","07108","1991","Municipal",17913,1.44879216324819,"PRI",0,0
+"2151","Chiapas","Villaflores","07108","1995","Municipal",23909,2.79627980414931,"PRI",0,0
+"2152","Chiapas","Villaflores","07108","1998","Municipal",6012,2.80959632445094,"PRI",0,0
+"2153","Chiapas","Villaflores","07108","2001","Municipal",27167,4.46420251917727,"PRI",0,0
+"2154","Chiapas","Villaflores","07108","2004","Municipal",31648,1.99320139081969,"PAN_C",1,1
+"2155","Chiapas","Villaflores","07108","2007","Municipal",34270,2.90520199872868,"PRI",1,2
+"2156","Chiapas","Villaflores","07108","2010","Municipal",30155,2.56880147622473,"PRI",0,2
+"2157","Chiapas","Villaflores","07108","2012","Municipal",9840,3.68805727189673,"PVEM",1,3
+"2158","Chiapas","Villaflores","07108","2015","Municipal",44545,4.03392247864851,"PRI",1,4
+"2159","Chiapas","Villaflores","07108","2018","Municipal",47356,3.17719593906772,"PVEM",1,5
+"2160","Chiapas","Yajalon","07109","1985","Municipal",2607,1.85789491668592,"PRI",NA,NA
+"2161","Chiapas","Yajalon","07109","1988","Municipal",3622,1.7346958906689,"PRI",0,0
+"2162","Chiapas","Yajalon","07109","1991","Municipal",5014,1,"PRI",0,0
+"2163","Chiapas","Yajalon","07109","1995","Municipal",9256,2.30823913219878,"PRI",0,0
+"2164","Chiapas","Yajalon","07109","1998","Municipal",1839,2.94754825304672,"PRI",0,0
+"2165","Chiapas","Yajalon","07109","2001","Municipal",8345,3.7948265193505,"PRI",0,0
+"2166","Chiapas","Yajalon","07109","2004","Municipal",9563,2.05467063746086,"PAN_C",1,1
+"2167","Chiapas","Yajalon","07109","2007","Municipal",11063,2.48416940823858,"PRD",1,2
+"2168","Chiapas","Yajalon","07109","2010","Municipal",12351,3.0002786562199,"PVEM",1,3
+"2169","Chiapas","Yajalon","07109","2012","Municipal",18826,2.98940544798411,"PVEM",0,3
+"2170","Chiapas","Yajalon","07109","2015","Municipal",17671,2.49813698864006,"PRI",1,4
+"2171","Chiapas","Yajalon","07109","2018","Municipal",18098,2.72730313643276,"PVEM",1,5
+"2172","Chiapas","San Lucas","07110","1985","Municipal",1187,1,"PRI",NA,NA
+"2173","Chiapas","San Lucas","07110","1988","Municipal",491,1,"PRI",0,0
+"2174","Chiapas","San Lucas","07110","1991","Municipal",1403,1,"PRI",0,0
+"2175","Chiapas","San Lucas","07110","1995","Municipal",1496,1.11603803403747,"PRI",0,0
+"2176","Chiapas","San Lucas","07110","1998","Municipal",6179,2.06723023459285,"PRI",0,0
+"2177","Chiapas","San Lucas","07110","2001","Municipal",2267,3.11905592136241,"PRD",1,1
+"2178","Chiapas","San Lucas","07110","2004","Municipal",2461,2.98743224742815,"PAN",1,2
+"2179","Chiapas","San Lucas","07110","2007","Municipal",2793,3.31467525389168,"PRI_C",1,3
+"2180","Chiapas","San Lucas","07110","2010","Municipal",3093,2.12805691323216,"PAN_C",1,4
+"2181","Chiapas","San Lucas","07110","2012","Municipal",27901,2.88656193901676,"PVEM",1,5
+"2182","Chiapas","San Lucas","07110","2015","Municipal",3704,2.25022406249885,"PRI",1,6
+"2183","Chiapas","San Lucas","07110","2018","Municipal",3623,3.02630442992603,"PAN_C",1,7
+"2184","Chiapas","Zinacantan","07111","1985","Municipal",5644,1.0944257997895,"PRI",NA,NA
+"2185","Chiapas","Zinacantan","07111","1988","Municipal",9178,1,"PRI",0,0
+"2186","Chiapas","Zinacantan","07111","1991","Municipal",9409,1.06106017635987,"PRI",0,0
+"2187","Chiapas","Zinacantan","07111","1995","Municipal",7012,2.77670953467398,"PRD",1,1
+"2188","Chiapas","Zinacantan","07111","1998","Municipal",5142,2.03710057169991,"PRI",1,2
+"2189","Chiapas","Zinacantan","07111","2001","Municipal",11053,2.31565486805166,"PRD",1,3
+"2190","Chiapas","Zinacantan","07111","2004","Municipal",12840,1.98653355376648,"PAN_C",1,4
+"2191","Chiapas","Zinacantan","07111","2007","Municipal",7001,1.18665052713322,"PRI",1,5
+"2192","Chiapas","Zinacantan","07111","2010","Municipal",16724,2.06299292899633,"PRI",0,5
+"2193","Chiapas","Zinacantan","07111","2012","Municipal",11685,3.61666351956021,"PVEM",1,6
+"2194","Chiapas","Zinacantan","07111","2015","Municipal",23369,1.04455016892142,"PRI",1,7
+"2195","Chiapas","Zinacantan","07111","2018","Municipal",26289,2.35323043867666,"PRI",0,7
+"2196","Chiapas","San Juan Cancuc","07112","1991","Municipal",4506,1,"PRI",NA,NA
+"2197","Chiapas","San Juan Cancuc","07112","1995","Municipal",6106,2.28898342227609,"PRI",0,0
+"2198","Chiapas","San Juan Cancuc","07112","2001","Municipal",7106,2.23841822073044,"PRI",0,0
+"2199","Chiapas","San Juan Cancuc","07112","2004","Municipal",8775,2.03983603880182,"PRI",0,0
+"2200","Chiapas","San Juan Cancuc","07112","2007","Municipal",11007,2.42834886878867,"PRD",1,1
+"2201","Chiapas","San Juan Cancuc","07112","2010","Municipal",12798,2.16397966036822,"PRI",1,2
+"2202","Chiapas","San Juan Cancuc","07112","2012","Municipal",18808,2.01701234636499,"PRI",0,2
+"2203","Chiapas","San Juan Cancuc","07112","2015","Municipal",16169,1.20399343518308,"PRI",0,2
+"2204","Chiapas","San Juan Cancuc","07112","2018","Municipal",17848,2.96313127462007,"PRI",0,2
+"2205","Chiapas","Aldama","07113","2001","Municipal",1349,1.15189145131131,"PRI",NA,NA
+"2206","Chiapas","Aldama","07113","2004","Municipal",1248,1.18609964166833,"PRI",0,0
+"2207","Chiapas","Aldama","07113","2007","Municipal",1515,1.47196196013845,"PRI",0,0
+"2208","Chiapas","Aldama","07113","2010","Municipal",1764,1.62890428617669,"PRI",0,0
+"2209","Chiapas","Aldama","07113","2012","Municipal",1614,1.26946888559563,"PRI",0,0
+"2210","Chiapas","Aldama","07113","2015","Municipal",2554,1.09857243215025,"PRI",0,0
+"2211","Chiapas","Aldama","07113","2018","Municipal",2785,2.71203979063997,"PRI",0,0
+"2212","Chiapas","Benemerito De Las Americas","07114","2001","Municipal",3421,2.89601782640655,"PRI",NA,NA
+"2213","Chiapas","Benemerito De Las Americas","07114","2004","Municipal",4229,3.37312147507588,"PT",1,1
+"2214","Chiapas","Benemerito De Las Americas","07114","2007","Municipal",5552,4.43825098772107,"PRD",1,2
+"2215","Chiapas","Benemerito De Las Americas","07114","2010","Municipal",6388,2.93414848095833,"PRI",1,3
+"2216","Chiapas","Benemerito De Las Americas","07114","2012","Municipal",6204,3.21107403614259,"PVEM",1,4
+"2217","Chiapas","Benemerito De Las Americas","07114","2015","Municipal",7998,3.18542046298386,"PRI",1,5
+"2218","Chiapas","Benemerito De Las Americas","07114","2018","Municipal",9268,2.85951525532578,"NVA_ALIANZA",1,6
+"2219","Chiapas","Maravilla Tenejapa","07115","2001","Municipal",2147,3.60366023991413,"PRI",NA,NA
+"2220","Chiapas","Maravilla Tenejapa","07115","2004","Municipal",2960,3.20607713409454,"PRI",0,0
+"2221","Chiapas","Maravilla Tenejapa","07115","2007","Municipal",2057,1.84964133846128,"PRI",0,0
+"2222","Chiapas","Maravilla Tenejapa","07115","2010","Municipal",4296,2.14916225564733,"PRI",0,0
+"2223","Chiapas","Maravilla Tenejapa","07115","2012","Municipal",4942,3.35444299468472,"PRI",0,0
+"2224","Chiapas","Maravilla Tenejapa","07115","2015","Municipal",5655,2.08243672227508,"PRD",1,1
+"2225","Chiapas","Maravilla Tenejapa","07115","2018","Municipal",6210,3.15095019338344,"PRD",0,1
+"2226","Chiapas","Marques De Comillas","07116","2001","Municipal",2464,2.87924479641429,"PRD",NA,NA
+"2227","Chiapas","Marques De Comillas","07116","2004","Municipal",3208,2.82233934513867,"PRI",1,1
+"2228","Chiapas","Marques De Comillas","07116","2007","Municipal",2622,1.99979562988015,"PRI_C",1,2
+"2229","Chiapas","Marques De Comillas","07116","2010","Municipal",4106,3.41267036595613,"PVEM",1,3
+"2230","Chiapas","Marques De Comillas","07116","2012","Municipal",3236,2.86928235076041,"PVEM",0,3
+"2231","Chiapas","Marques De Comillas","07116","2015","Municipal",5460,2.36571220700922,"PAN",1,4
+"2232","Chiapas","Marques De Comillas","07116","2018","Municipal",5744,2.90945361055099,"MORENA_C",1,5
+"2233","Chiapas","Montecristo De Guerrero","07117","2001","Municipal",2117,3.13427504609757,"PAN",NA,NA
+"2234","Chiapas","Montecristo De Guerrero","07117","2004","Municipal",2409,2.08278025036919,"PRI",1,1
+"2235","Chiapas","Montecristo De Guerrero","07117","2007","Municipal",2825,2.29709446083797,"PRI",0,1
+"2236","Chiapas","Montecristo De Guerrero","07117","2010","Municipal",3259,2.77890801750714,"PAN_C",1,2
+"2237","Chiapas","Montecristo De Guerrero","07117","2012","Municipal",2232,1.68373807112912,"PVEM",1,3
+"2238","Chiapas","Montecristo De Guerrero","07117","2015","Municipal",4228,3.36842715431305,"PANAL",1,4
+"2239","Chiapas","Montecristo De Guerrero","07117","2018","Municipal",4281,2.90740198313591,"MORENA",1,5
+"2240","Chiapas","San Andres Duraznal","07118","2001","Municipal",1664,2.53605422172667,"PT",NA,NA
+"2241","Chiapas","San Andres Duraznal","07118","2004","Municipal",1771,3.73017644416608,"PT",0,0
+"2242","Chiapas","San Andres Duraznal","07118","2007","Municipal",1890,3.21168069370059,"PAN",1,1
+"2243","Chiapas","San Andres Duraznal","07118","2010","Municipal",2257,3.01317760968532,"PRI",1,2
+"2244","Chiapas","San Andres Duraznal","07118","2012","Municipal",1412,2.83666540039284,"PVEM",1,3
+"2245","Chiapas","San Andres Duraznal","07118","2015","Municipal",2066,2.86276837009973,"PRI",1,4
+"2246","Chiapas","San Andres Duraznal","07118","2018","Municipal",2905,2.73690053984335,"MORENA",1,5
+"2247","Chiapas","Santiago El Pinar","07119","2001","Municipal",932,1.92000365280124,"PRI",NA,NA
+"2248","Chiapas","Santiago El Pinar","07119","2004","Municipal",1015,2.90841368714824,"PRI",0,0
+"2249","Chiapas","Santiago El Pinar","07119","2007","Municipal",643,1,"PRI",0,0
+"2250","Chiapas","Santiago El Pinar","07119","2010","Municipal",1470,1.96611261534213,"PAN_C",1,1
+"2251","Chiapas","Santiago El Pinar","07119","2012","Municipal",1591,1.96403141170327,"PVEM",1,2
+"2252","Chiapas","Santiago El Pinar","07119","2018","Municipal",2132,2.64764343123465,"PT",1,3
+"2253","Chiapas","El Parral","07120","2015","Municipal",7636,4.48070254553748,"PT",NA,NA
+"2254","Chiapas","El Parral","07120","2018","Municipal",8132,3.12285719536528,"MORENA_C",1,1
+"2255","Chiapas","Emiliano Zapata","07121","2015","Municipal",5695,3.00372482631434,"PRI",NA,NA
+"2256","Chiapas","Emiliano Zapata","07121","2018","Municipal",5976,3.32002082402023,"PVEM",1,1
+"2257","Chiapas","Mezcalapa","07122","2015","Municipal",10371,2.83173553831504,"PRI",NA,NA
+"2258","Chiapas","Mezcalapa","07122","2018","Municipal",11082,3.24315659119939,"PRI",0,0
+"2259","Chiapas","Capitan Luis Angel Vidal","07124","2018","Municipal",1967,2.95796199062781,"PVEM",NA,NA
+"2260","Chiapas","Rincon Chamula San Pedro","07125","2018","Municipal",3018,2.78624051698937,"MORENA",NA,NA
 "2261","Chihuahua","Ahumada","08001","1986","Municipal",3605,1.99315418189659,"PRI",NA,NA
 "2262","Chihuahua","Ahumada","08001","1989","Municipal",2058,1.69838340627534,"PRI",0,0
 "2263","Chihuahua","Ahumada","08001","1992","Municipal",3647,2.14458881327275,"PRI",0,0
@@ -9839,20 +9839,20 @@
 "9838","Morelos","Tlalnepantla","17023","2003","Municipal",2002,5.57783593167829,"PRI",0,0
 "9839","Morelos","Tlalnepantla","17023","2006","Municipal",3048,1.59749388899518,"PAN_C",1,1
 "9840","Morelos","Tlalnepantla","17023","2009","Municipal",3106,1.92434333164227,"PAN",0,1
-"9841","Morelos","Tlaltizapan","17023","2009","Municipal",19395,3.96115566596082,"PRI",1,2
-"9842","Morelos","Tlalnepantla","17023","2012","Municipal",3559,2.51007748128264,"PRD_C",1,3
-"9843","Morelos","Tlaltizapan","17023","2012","Municipal",22014,2.99117213995635,"PRD_C",0,3
-"9844","Morelos","Tlalnepantla","17023","2015","Municipal",3391,2.67177192491816,"PT",1,4
-"9845","Morelos","Tlaltizapan","17023","2015","Municipal",21209,6.75621258899091,"PRI_C",1,5
-"9846","Morelos","Tlalnepantla","17023","2018","Municipal",3926,2.83426076479476,"NVA_ALIANZA",1,6
-"9847","Morelos","Tlaltizapan","17023","2018","Municipal",24827,5.05134959309111,"PRD_C",1,7
-"9848","Morelos","Tlaltizapan De Zapata","17024","1988","Municipal",7870,1.22433482714666,"PRI",NA,NA
-"9849","Morelos","Tlaltizapan De Zapata","17024","1991","Municipal",4244,1.60832421193923,"PRI",0,0
-"9850","Morelos","Tlaltizapan De Zapata","17024","1994","Municipal",12615,2.66780820649019,"PRI",0,0
-"9851","Morelos","Tlaltizapan De Zapata","17024","1997","Municipal",14608,2.24353345748562,"PRD",1,1
-"9852","Morelos","Tlaltizapan De Zapata","17024","2000","Municipal",17285,2.89930225945023,"PRD_C",1,2
-"9853","Morelos","Tlaltizapan De Zapata","17024","2003","Municipal",16014,4.77952277531723,"PAN",1,3
-"9854","Morelos","Tlaltizapan De Zapata","17024","2006","Municipal",18760,3.51064912151289,"PAN_C",1,4
+"9841","Morelos","Tlalnepantla","17023","2012","Municipal",3559,2.51007748128264,"PRD_C",1,2
+"9842","Morelos","Tlalnepantla","17023","2015","Municipal",3391,2.67177192491816,"PT",1,3
+"9843","Morelos","Tlalnepantla","17023","2018","Municipal",3926,2.83426076479476,"NVA_ALIANZA",1,4
+"9844","Morelos","Tlaltizapan De Zapata","17024","1988","Municipal",7870,1.22433482714666,"PRI",NA,NA
+"9845","Morelos","Tlaltizapan De Zapata","17024","1991","Municipal",4244,1.60832421193923,"PRI",0,0
+"9846","Morelos","Tlaltizapan De Zapata","17024","1994","Municipal",12615,2.66780820649019,"PRI",0,0
+"9847","Morelos","Tlaltizapan De Zapata","17024","1997","Municipal",14608,2.24353345748562,"PRD",1,1
+"9848","Morelos","Tlaltizapan De Zapata","17024","2000","Municipal",17285,2.89930225945023,"PRD_C",1,2
+"9849","Morelos","Tlaltizapan De Zapata","17024","2003","Municipal",16014,4.77952277531723,"PAN",1,3
+"9850","Morelos","Tlaltizapan De Zapata","17024","2006","Municipal",18760,3.51064912151289,"PAN_C",1,4
+"9851","Morelos","Tlaltizapan De Zapata","17024","2009","Municipal",19395,3.96115566596082,"PRI",1,5
+"9852","Morelos","Tlaltizapan De Zapata","17024","2012","Municipal",22014,2.99117213995635,"PRD_C",1,6
+"9853","Morelos","Tlaltizapan De Zapata","17024","2015","Municipal",21209,6.75621258899091,"PRI_C",1,7
+"9854","Morelos","Tlaltizapan De Zapata","17024","2018","Municipal",24827,5.05134959309111,"PRD_C",1,8
 "9855","Morelos","Tlaquiltenango","17025","1988","Municipal",6012,1.08661237795201,"PRI",NA,NA
 "9856","Morelos","Tlaquiltenango","17025","1991","Municipal",3871,1.35753745774297,"PRI",0,0
 "9857","Morelos","Tlaquiltenango","17025","1994","Municipal",8726,1.92483195308352,"PRI",0,0
@@ -11082,11 +11082,11 @@
 "11081","Oaxaca","San Agustin Atenango","20081","2007","Municipal",765,1.96735355245672,"PRI",1,2
 "11082","Oaxaca","San Agustin Atenango","20081","2010","Municipal",856,2.06513683936813,"PRD",1,3
 "11083","Oaxaca","San Agustin Atenango","20081","2013","Municipal",793,1.92082410617469,"PRI_C",1,4
-"11084","Oaxaca","San Andres Cabecera Nueva","20081","2013","Municipal",1394,2.52197313030515,"PAN_C",1,5
-"11085","Oaxaca","San Agustin Atenango","20081","2016","Municipal",910,3.16905998857891,"PRI_C",1,6
-"11086","Oaxaca","San Andres Cabecera Nueva","20081","2016","Municipal",1456,1.71559584761185,"PRI_C",0,6
-"11087","Oaxaca","San Agustin Atenango","20081","2018","Municipal",904,2.76335763245021,"MORENA_C",1,7
-"11088","Oaxaca","San Andres Cabecera Nueva","20081","2018","Municipal",1555,2.05692468117904,"MORENA_C",0,7
+"11084","Oaxaca","San Agustin Atenango","20081","2016","Municipal",910,3.16905998857891,"PRI_C",0,4
+"11085","Oaxaca","San Agustin Atenango","20081","2018","Municipal",904,2.76335763245021,"MORENA_C",1,5
+"11086","Oaxaca","San Andres Cabecera Nueva","20088","2013","Municipal",1394,2.52197313030515,"PAN_C",NA,NA
+"11087","Oaxaca","San Andres Cabecera Nueva","20088","2016","Municipal",1456,1.71559584761185,"PRI_C",1,1
+"11088","Oaxaca","San Andres Cabecera Nueva","20088","2018","Municipal",1555,2.05692468117904,"MORENA_C",1,2
 "11089","Oaxaca","San Andres Dinicuiti","20089","1998","Municipal",432,1.96152707551303,"PRI",NA,NA
 "11090","Oaxaca","San Andres Dinicuiti","20089","2001","Municipal",563,1.98076644020843,"PRI",0,0
 "11091","Oaxaca","San Andres Dinicuiti","20089","2004","Municipal",808,1.92194837311401,"PRD",1,1
